@@ -80,3 +80,170 @@
 [       625] Sending heartbeat to live-internal.fivem.net:30110
 [       640] Started map fivem-map-skater
 [       640] Started resource fivem-map-skater
+[         0] INFO: No channel links found in configuration file.
+[       156] Resolved live-internal.fivem.net:30110 to 62.210.162.18:30110
+[       219] Found new resource fivem in C:/Users\Admin\Desktop\server\cfx-server-data/resources//fivem
+[       234] Found new resource fivem-awesome1501 in C:/Users\Admin\Desktop\server\cfx-server-data/resources//fivem-awesome1501
+[       250] Found new resource fivem-map-hipster in C:/Users\Admin\Desktop\server\cfx-server-data/resources//fivem-map-hipster
+[       265] Found new resource fivem-map-skater in C:/Users\Admin\Desktop\server\cfx-server-data/resources//fivem-map-skater
+[       281] Found new resource runcode in C:/Users\Admin\Desktop\server\cfx-server-data/resources//runcode
+[       281] Found new resource race in C:/Users\Admin\Desktop\server\cfx-server-data/resources//[gamemodes]/race
+[       297] Found new resource race-test in C:/Users\Admin\Desktop\server\cfx-server-data/resources//[gamemodes]/race-test
+[       297] Found new resource channelfeed in C:/Users\Admin\Desktop\server\cfx-server-data/resources//[gameplay]/channelfeed
+[       312] Found new resource irc in C:/Users\Admin\Desktop\server\cfx-server-data/resources//[gameplay]/irc
+[       328] Found new resource obituary in C:/Users\Admin\Desktop\server\cfx-server-data/resources//[gameplay]/obituary
+[       344] Found new resource obituary-deaths in C:/Users\Admin\Desktop\server\cfx-server-data/resources//[gameplay]/obituary-deaths
+[       359] Found new resource playernames in C:/Users\Admin\Desktop\server\cfx-server-data/resources//[gameplay]/playernames
+[       359] Found new resource mapmanager in C:/Users\Admin\Desktop\server\cfx-server-data/resources//[managers]/mapmanager
+[       375] Found new resource baseevents in C:/Users\Admin\Desktop\server\cfx-server-data/resources//[system]/baseevents
+[       375] Found new resource chat in C:/Users\Admin\Desktop\server\cfx-server-data/resources//[system]/chat
+[       390] Found new resource hardcap in C:/Users\Admin\Desktop\server\cfx-server-data/resources//[system]/hardcap
+[       406] Found new resource rconlog in C:/Users\Admin\Desktop\server\cfx-server-data/resources//[system]/rconlog
+[       422] Found new resource scoreboard in C:/Users\Admin\Desktop\server\cfx-server-data/resources//[system]/scoreboard
+[       422] Found new resource sessionmanager in C:/Users\Admin\Desktop\server\cfx-server-data/resources//[system]/sessionmanager
+[       437] Found new resource spawnmanager in C:/Users\Admin\Desktop\server\cfx-server-data/resources//[system]/spawnmanager
+[       453] Found new resource betaguns in C:/Users\Admin\Desktop\server\cfx-server-data/resources//[test]/betaguns
+[       453] Found new resource gameInit in C:/Users\Admin\Desktop\server\cfx-server-data/resources//[test]/gameInit
+[       469] Found new resource keks in C:/Users\Admin\Desktop\server\cfx-server-data/resources//[test]/keks
+[       484] Found new resource yarn in C:/Users\Admin\Desktop\server\cfx-server-data/resources//[system]/[builders]/yarn
+[       531] Started resource sessionmanager
+[       609] Started resource mapmanager
+[       625] Started resource chat
+[       640] Started resource spawnmanager
+[       640] Started gametype Freeroam
+[       640] Started resource fivem
+[       656] Started resource hardcap
+[       656] Started resource rconlog
+[       672] Started resource scoreboard
+[       687] Started resource playernames
+[       687] Authenticating server license key...
+[       890] Server license key authentication succeeded. Welcome!
+[       953] Sending heartbeat to live-internal.fivem.net:30110
+[       953] Started map fivem-map-hipster
+[       969] Started resource fivem-map-hipster
+[     21765] hitch warning: frame time of 326 milliseconds
+[     21765] hitch warning: frame time of 333 milliseconds
+[         0] INFO: No channel links found in configuration file.
+[        78] Resolved live-internal.fivem.net:30110 to 62.210.162.18:30110
+[       109] Found new resource fivem in C:/Users\Admin\Desktop\server\cfx-server-data/resources//fivem
+[       125] Found new resource fivem-awesome1501 in C:/Users\Admin\Desktop\server\cfx-server-data/resources//fivem-awesome1501
+[       140] Found new resource fivem-map-hipster in C:/Users\Admin\Desktop\server\cfx-server-data/resources//fivem-map-hipster
+[       156] Found new resource fivem-map-skater in C:/Users\Admin\Desktop\server\cfx-server-data/resources//fivem-map-skater
+[       172] Found new resource runcode in C:/Users\Admin\Desktop\server\cfx-server-data/resources//runcode
+[       172] Found new resource race in C:/Users\Admin\Desktop\server\cfx-server-data/resources//[gamemodes]/race
+[       187] Found new resource race-test in C:/Users\Admin\Desktop\server\cfx-server-data/resources//[gamemodes]/race-test
+[       203] Found new resource channelfeed in C:/Users\Admin\Desktop\server\cfx-server-data/resources//[gameplay]/channelfeed
+[       218] Found new resource irc in C:/Users\Admin\Desktop\server\cfx-server-data/resources//[gameplay]/irc
+[       218] Found new resource obituary in C:/Users\Admin\Desktop\server\cfx-server-data/resources//[gameplay]/obituary
+[       234] Found new resource obituary-deaths in C:/Users\Admin\Desktop\server\cfx-server-data/resources//[gameplay]/obituary-deaths
+[       250] Found new resource playernames in C:/Users\Admin\Desktop\server\cfx-server-data/resources//[gameplay]/playernames
+[       265] Found new resource mapmanager in C:/Users\Admin\Desktop\server\cfx-server-data/resources//[managers]/mapmanager
+[       265] Found new resource baseevents in C:/Users\Admin\Desktop\server\cfx-server-data/resources//[system]/baseevents
+[       281] Found new resource chat in C:/Users\Admin\Desktop\server\cfx-server-data/resources//[system]/chat
+[       297] Found new resource hardcap in C:/Users\Admin\Desktop\server\cfx-server-data/resources//[system]/hardcap
+[       297] Found new resource rconlog in C:/Users\Admin\Desktop\server\cfx-server-data/resources//[system]/rconlog
+[       312] Found new resource scoreboard in C:/Users\Admin\Desktop\server\cfx-server-data/resources//[system]/scoreboard
+[       328] Found new resource sessionmanager in C:/Users\Admin\Desktop\server\cfx-server-data/resources//[system]/sessionmanager
+[       328] Found new resource spawnmanager in C:/Users\Admin\Desktop\server\cfx-server-data/resources//[system]/spawnmanager
+[       343] Found new resource betaguns in C:/Users\Admin\Desktop\server\cfx-server-data/resources//[test]/betaguns
+[       359] Found new resource gameInit in C:/Users\Admin\Desktop\server\cfx-server-data/resources//[test]/gameInit
+[       359] Found new resource keks in C:/Users\Admin\Desktop\server\cfx-server-data/resources//[test]/keks
+[       375] Found new resource yarn in C:/Users\Admin\Desktop\server\cfx-server-data/resources//[system]/[builders]/yarn
+[       422] Started resource sessionmanager
+[       437] Started resource mapmanager
+[       453] Started resource chat
+[       453] Started resource spawnmanager
+[       453] Started gametype Freeroam
+[       468] Started resource fivem
+[       468] Started resource hardcap
+[       484] Started resource rconlog
+[       484] Started resource scoreboard
+[       500] Started resource playernames
+[       500] Authenticating server license key...
+[       781] Server license key authentication succeeded. Welcome!
+[       828] Sending heartbeat to live-internal.fivem.net:30110
+[       843] Started map fivem-map-skater
+[       843] Started resource fivem-map-skater
+[         0] INFO: No channel links found in configuration file.
+[        78] Resolved live-internal.fivem.net:30110 to 62.210.162.18:30110
+[       125] Found new resource fivem in C:/Users\Admin\Desktop\server\cfx-server-data/resources//fivem
+[       141] Found new resource fivem-awesome1501 in C:/Users\Admin\Desktop\server\cfx-server-data/resources//fivem-awesome1501
+[       141] Found new resource fivem-map-hipster in C:/Users\Admin\Desktop\server\cfx-server-data/resources//fivem-map-hipster
+[       156] Found new resource fivem-map-skater in C:/Users\Admin\Desktop\server\cfx-server-data/resources//fivem-map-skater
+[       172] Found new resource runcode in C:/Users\Admin\Desktop\server\cfx-server-data/resources//runcode
+[       172] Found new resource race in C:/Users\Admin\Desktop\server\cfx-server-data/resources//[gamemodes]/race
+[       188] Found new resource race-test in C:/Users\Admin\Desktop\server\cfx-server-data/resources//[gamemodes]/race-test
+[       203] Found new resource channelfeed in C:/Users\Admin\Desktop\server\cfx-server-data/resources//[gameplay]/channelfeed
+[       219] Found new resource irc in C:/Users\Admin\Desktop\server\cfx-server-data/resources//[gameplay]/irc
+[       234] Found new resource obituary in C:/Users\Admin\Desktop\server\cfx-server-data/resources//[gameplay]/obituary
+[       234] Found new resource obituary-deaths in C:/Users\Admin\Desktop\server\cfx-server-data/resources//[gameplay]/obituary-deaths
+[       250] Found new resource playernames in C:/Users\Admin\Desktop\server\cfx-server-data/resources//[gameplay]/playernames
+[       266] Found new resource mapmanager in C:/Users\Admin\Desktop\server\cfx-server-data/resources//[managers]/mapmanager
+[       281] Found new resource baseevents in C:/Users\Admin\Desktop\server\cfx-server-data/resources//[system]/baseevents
+[       297] Found new resource chat in C:/Users\Admin\Desktop\server\cfx-server-data/resources//[system]/chat
+[       297] Found new resource hardcap in C:/Users\Admin\Desktop\server\cfx-server-data/resources//[system]/hardcap
+[       313] Found new resource rconlog in C:/Users\Admin\Desktop\server\cfx-server-data/resources//[system]/rconlog
+[       328] Found new resource scoreboard in C:/Users\Admin\Desktop\server\cfx-server-data/resources//[system]/scoreboard
+[       344] Found new resource sessionmanager in C:/Users\Admin\Desktop\server\cfx-server-data/resources//[system]/sessionmanager
+[       344] Found new resource spawnmanager in C:/Users\Admin\Desktop\server\cfx-server-data/resources//[system]/spawnmanager
+[       359] Found new resource betaguns in C:/Users\Admin\Desktop\server\cfx-server-data/resources//[test]/betaguns
+[       375] Found new resource gameInit in C:/Users\Admin\Desktop\server\cfx-server-data/resources//[test]/gameInit
+[       391] Found new resource keks in C:/Users\Admin\Desktop\server\cfx-server-data/resources//[test]/keks
+[       391] Found new resource yarn in C:/Users\Admin\Desktop\server\cfx-server-data/resources//[system]/[builders]/yarn
+[       438] Started resource sessionmanager
+[       453] Started resource mapmanager
+[       469] Started resource chat
+[       469] Started resource spawnmanager
+[       469] Started gametype Freeroam
+[       469] Started resource fivem
+[       484] Started resource hardcap
+[       500] Started resource rconlog
+[       500] Started resource scoreboard
+[       516] Started resource playernames
+[       516] Authenticating server license key...
+[       672] Server license key authentication succeeded. Welcome!
+[       734] Sending heartbeat to live-internal.fivem.net:30110
+[       734] Started map fivem-map-skater
+[       734] Started resource fivem-map-skater
+[         0] INFO: No channel links found in configuration file.
+[        78] Resolved live-internal.fivem.net:30110 to 62.210.162.18:30110
+[       141] Found new resource fivem in C:/Users\Admin\Desktop\server\cfx-server-data/resources//fivem
+[       156] Found new resource fivem-awesome1501 in C:/Users\Admin\Desktop\server\cfx-server-data/resources//fivem-awesome1501
+[       172] Found new resource fivem-map-hipster in C:/Users\Admin\Desktop\server\cfx-server-data/resources//fivem-map-hipster
+[       187] Found new resource fivem-map-skater in C:/Users\Admin\Desktop\server\cfx-server-data/resources//fivem-map-skater
+[       187] Found new resource runcode in C:/Users\Admin\Desktop\server\cfx-server-data/resources//runcode
+[       203] Found new resource race in C:/Users\Admin\Desktop\server\cfx-server-data/resources//[gamemodes]/race
+[       203] Found new resource race-test in C:/Users\Admin\Desktop\server\cfx-server-data/resources//[gamemodes]/race-test
+[       219] Found new resource channelfeed in C:/Users\Admin\Desktop\server\cfx-server-data/resources//[gameplay]/channelfeed
+[       234] Found new resource irc in C:/Users\Admin\Desktop\server\cfx-server-data/resources//[gameplay]/irc
+[       234] Found new resource obituary in C:/Users\Admin\Desktop\server\cfx-server-data/resources//[gameplay]/obituary
+[       250] Found new resource obituary-deaths in C:/Users\Admin\Desktop\server\cfx-server-data/resources//[gameplay]/obituary-deaths
+[       266] Found new resource playernames in C:/Users\Admin\Desktop\server\cfx-server-data/resources//[gameplay]/playernames
+[       281] Found new resource mapmanager in C:/Users\Admin\Desktop\server\cfx-server-data/resources//[managers]/mapmanager
+[       281] Found new resource baseevents in C:/Users\Admin\Desktop\server\cfx-server-data/resources//[system]/baseevents
+[       297] Found new resource chat in C:/Users\Admin\Desktop\server\cfx-server-data/resources//[system]/chat
+[       312] Found new resource hardcap in C:/Users\Admin\Desktop\server\cfx-server-data/resources//[system]/hardcap
+[       312] Found new resource rconlog in C:/Users\Admin\Desktop\server\cfx-server-data/resources//[system]/rconlog
+[       328] Found new resource scoreboard in C:/Users\Admin\Desktop\server\cfx-server-data/resources//[system]/scoreboard
+[       344] Found new resource sessionmanager in C:/Users\Admin\Desktop\server\cfx-server-data/resources//[system]/sessionmanager
+[       344] Found new resource spawnmanager in C:/Users\Admin\Desktop\server\cfx-server-data/resources//[system]/spawnmanager
+[       359] Found new resource betaguns in C:/Users\Admin\Desktop\server\cfx-server-data/resources//[test]/betaguns
+[       375] Found new resource gameInit in C:/Users\Admin\Desktop\server\cfx-server-data/resources//[test]/gameInit
+[       375] Found new resource keks in C:/Users\Admin\Desktop\server\cfx-server-data/resources//[test]/keks
+[       391] Found new resource yarn in C:/Users\Admin\Desktop\server\cfx-server-data/resources//[system]/[builders]/yarn
+[       422] Started resource sessionmanager
+[       437] Could not bind on 213.233.243.147:30127 - is this address valid and not already in use?
+[       453] Started resource mapmanager
+[       469] Started resource chat
+[       469] Started resource spawnmanager
+[       469] Started gametype Freeroam
+[       469] Started resource fivem
+[       484] Started resource hardcap
+[       500] Started resource rconlog
+[       500] Started resource scoreboard
+[       516] Started resource playernames
+[       516] Authenticating server license key...
+[       672] Server license key authentication succeeded. Welcome!
+[       734] Sending heartbeat to live-internal.fivem.net:30110
+[       734] Started map fivem-map-hipster
+[       750] Started resource fivem-map-hipster
