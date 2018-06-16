@@ -3604,3 +3604,164 @@
 [    221969] Connecting: Look at me go
 [    346734] Sending heartbeat to live-internal.fivem.net:30110
 [    526766] Sending heartbeat to live-internal.fivem.net:30110
+[         0] INFO: No channel links found in configuration file.
+[        78] Resolved live-internal.fivem.net:30110 to 62.210.162.18:30110
+[       140] Found new resource coordsaver in C:/Users\Admin\Desktop\server\cfx-server-data/resources//coordsaver
+[       140] Found new resource esplugin_mysql in C:/Users\Admin\Desktop\server\cfx-server-data/resources//esplugin_mysql
+[       156] Found new resource essentialmode in C:/Users\Admin\Desktop\server\cfx-server-data/resources//essentialmode
+[       172] Found new resource fivem in C:/Users\Admin\Desktop\server\cfx-server-data/resources//fivem
+[       172] Found new resource fivem-awesome1501 in C:/Users\Admin\Desktop\server\cfx-server-data/resources//fivem-awesome1501
+[       187] Found new resource fivem-map-hipster in C:/Users\Admin\Desktop\server\cfx-server-data/resources//fivem-map-hipster
+[       203] Found new resource fivem-map-skater in C:/Users\Admin\Desktop\server\cfx-server-data/resources//fivem-map-skater
+[       203] Found new resource mysql-async in C:/Users\Admin\Desktop\server\cfx-server-data/resources//mysql-async
+[       218] Found new resource runcode in C:/Users\Admin\Desktop\server\cfx-server-data/resources//runcode
+[       234] Found new resource es_admin2 in C:/Users\Admin\Desktop\server\cfx-server-data/resources//[essential]/es_admin2
+[       234] Found new resource async in C:/Users\Admin\Desktop\server\cfx-server-data/resources//[esx]/async
+[       250] Found new resource cron in C:/Users\Admin\Desktop\server\cfx-server-data/resources//[esx]/cron
+[       265] Found new resource esx-org.github.io in C:/Users\Admin\Desktop\server\cfx-server-data/resources//[esx]/esx-org.github.io
+[       281] Resource loading for esx-org.github.io failed:
+[       281] Could not open resource metadata file C:/Users\Admin\Desktop\server\cfx-server-data/resources//[esx]/esx-org.github.io/__resource.lua.
+[       297] Found new resource esx_accessories in C:/Users\Admin\Desktop\server\cfx-server-data/resources//[esx]/esx_accessories
+[       297] Found new resource esx_addonaccount in C:/Users\Admin\Desktop\server\cfx-server-data/resources//[esx]/esx_addonaccount
+[       312] Found new resource esx_addoninventory in C:/Users\Admin\Desktop\server\cfx-server-data/resources//[esx]/esx_addoninventory
+[       328] Found new resource esx_ambulancejob in C:/Users\Admin\Desktop\server\cfx-server-data/resources//[esx]/esx_ambulancejob
+[       343] Found new resource esx_animations in C:/Users\Admin\Desktop\server\cfx-server-data/resources//[esx]/esx_animations
+[       343] Found new resource esx_atm in C:/Users\Admin\Desktop\server\cfx-server-data/resources//[esx]/esx_atm
+[       359] Found new resource esx_bankerjob in C:/Users\Admin\Desktop\server\cfx-server-data/resources//[esx]/esx_bankerjob
+[       375] Found new resource esx_barbershop in C:/Users\Admin\Desktop\server\cfx-server-data/resources//[esx]/esx_barbershop
+[       390] Found new resource esx_basicneeds in C:/Users\Admin\Desktop\server\cfx-server-data/resources//[esx]/esx_basicneeds
+[       390] Found new resource esx_billing in C:/Users\Admin\Desktop\server\cfx-server-data/resources//[esx]/esx_billing
+[       406] Found new resource esx_boilerplate in C:/Users\Admin\Desktop\server\cfx-server-data/resources//[esx]/esx_boilerplate
+[       422] Found new resource esx_clotheshop in C:/Users\Admin\Desktop\server\cfx-server-data/resources//[esx]/esx_clotheshop
+[       422] Found new resource esx_cruisecontrol in C:/Users\Admin\Desktop\server\cfx-server-data/resources//[esx]/esx_cruisecontrol
+[       437] Found new resource esx_datastore in C:/Users\Admin\Desktop\server\cfx-server-data/resources//[esx]/esx_datastore
+[       453] Found new resource esx_dmvschool in C:/Users\Admin\Desktop\server\cfx-server-data/resources//[esx]/esx_dmvschool
+[       468] Found new resource esx_drugs in C:/Users\Admin\Desktop\server\cfx-server-data/resources//[esx]/esx_drugs
+[       484] Found new resource esx_garage in C:/Users\Admin\Desktop\server\cfx-server-data/resources//[esx]/esx_garage
+[       484] Found new resource esx_holdup in C:/Users\Admin\Desktop\server\cfx-server-data/resources//[esx]/esx_holdup
+[       500] Found new resource esx_identity in C:/Users\Admin\Desktop\server\cfx-server-data/resources//[esx]/esx_identity
+[       515] Found new resource esx_joblisting in C:/Users\Admin\Desktop\server\cfx-server-data/resources//[esx]/esx_joblisting
+[       515] Found new resource esx_jobs in C:/Users\Admin\Desktop\server\cfx-server-data/resources//[esx]/esx_jobs
+[       531] Found new resource esx_license in C:/Users\Admin\Desktop\server\cfx-server-data/resources//[esx]/esx_license
+[       547] Found new resource esx_lscustom in C:/Users\Admin\Desktop\server\cfx-server-data/resources//[esx]/esx_lscustom
+[       562] Found new resource esx_mecanojob in C:/Users\Admin\Desktop\server\cfx-server-data/resources//[esx]/esx_mecanojob
+[       578] Found new resource esx_menu_default in C:/Users\Admin\Desktop\server\cfx-server-data/resources//[esx]/esx_menu_default
+[       593] Found new resource esx_menu_dialog in C:/Users\Admin\Desktop\server\cfx-server-data/resources//[esx]/esx_menu_dialog
+[       609] Found new resource esx_menu_list in C:/Users\Admin\Desktop\server\cfx-server-data/resources//[esx]/esx_menu_list
+[       609] Found new resource esx_optionalneeds in C:/Users\Admin\Desktop\server\cfx-server-data/resources//[esx]/esx_optionalneeds
+[       625] Found new resource esx_phone in C:/Users\Admin\Desktop\server\cfx-server-data/resources//[esx]/esx_phone
+[       640] Found new resource esx_policejob in C:/Users\Admin\Desktop\server\cfx-server-data/resources//[esx]/esx_policejob
+[       656] Found new resource esx_property in C:/Users\Admin\Desktop\server\cfx-server-data/resources//[esx]/esx_property
+[       672] Found new resource esx_realestateagentjob in C:/Users\Admin\Desktop\server\cfx-server-data/resources//[esx]/esx_realestateagentjob
+[       687] Found new resource esx_rpchat-1.2.0 in C:/Users\Admin\Desktop\server\cfx-server-data/resources//[esx]/esx_rpchat-1.2.0
+[       703] Found new resource esx_service in C:/Users\Admin\Desktop\server\cfx-server-data/resources//[esx]/esx_service
+[       718] Found new resource esx_shops in C:/Users\Admin\Desktop\server\cfx-server-data/resources//[esx]/esx_shops
+[       734] Found new resource esx_sit in C:/Users\Admin\Desktop\server\cfx-server-data/resources//[esx]/esx_sit
+[       734] Found new resource esx_skin in C:/Users\Admin\Desktop\server\cfx-server-data/resources//[esx]/esx_skin
+[       750] Found new resource esx_society in C:/Users\Admin\Desktop\server\cfx-server-data/resources//[esx]/esx_society
+[       765] Found new resource esx_status in C:/Users\Admin\Desktop\server\cfx-server-data/resources//[esx]/esx_status
+[       781] Found new resource esx_taxijob in C:/Users\Admin\Desktop\server\cfx-server-data/resources//[esx]/esx_taxijob
+[       797] Found new resource esx_vehicleshop in C:/Users\Admin\Desktop\server\cfx-server-data/resources//[esx]/esx_vehicleshop
+[       797] Found new resource esx_voice in C:/Users\Admin\Desktop\server\cfx-server-data/resources//[esx]/esx_voice
+[       812] Found new resource esx_weashops in C:/Users\Admin\Desktop\server\cfx-server-data/resources//[esx]/esx_weashops
+[       828] Found new resource esx_whitelist in C:/Users\Admin\Desktop\server\cfx-server-data/resources//[esx]/esx_whitelist
+[       843] Found new resource esx_whitelistEnhanced in C:/Users\Admin\Desktop\server\cfx-server-data/resources//[esx]/esx_whitelistEnhanced
+[       859] Found new resource es_camera in C:/Users\Admin\Desktop\server\cfx-server-data/resources//[esx]/es_camera
+[       875] Found new resource es_extended in C:/Users\Admin\Desktop\server\cfx-server-data/resources//[esx]/es_extended
+[       890] Found new resource instance in C:/Users\Admin\Desktop\server\cfx-server-data/resources//[esx]/instance
+[       890] Found new resource skinchanger in C:/Users\Admin\Desktop\server\cfx-server-data/resources//[esx]/skinchanger
+[       906] Found new resource race in C:/Users\Admin\Desktop\server\cfx-server-data/resources//[gamemodes]/race
+[       922] Found new resource race-test in C:/Users\Admin\Desktop\server\cfx-server-data/resources//[gamemodes]/race-test
+[       937] Found new resource channelfeed in C:/Users\Admin\Desktop\server\cfx-server-data/resources//[gameplay]/channelfeed
+[       953] Found new resource irc in C:/Users\Admin\Desktop\server\cfx-server-data/resources//[gameplay]/irc
+[       953] Found new resource obituary in C:/Users\Admin\Desktop\server\cfx-server-data/resources//[gameplay]/obituary
+[       968] Found new resource obituary-deaths in C:/Users\Admin\Desktop\server\cfx-server-data/resources//[gameplay]/obituary-deaths
+[       984] Found new resource playernames in C:/Users\Admin\Desktop\server\cfx-server-data/resources//[gameplay]/playernames
+[      1000] Found new resource mapmanager in C:/Users\Admin\Desktop\server\cfx-server-data/resources//[managers]/mapmanager
+[      1015] Found new resource baseevents in C:/Users\Admin\Desktop\server\cfx-server-data/resources//[system]/baseevents
+[      1031] Found new resource chat in C:/Users\Admin\Desktop\server\cfx-server-data/resources//[system]/chat
+[      1047] Found new resource hardcap in C:/Users\Admin\Desktop\server\cfx-server-data/resources//[system]/hardcap
+[      1047] Found new resource rconlog in C:/Users\Admin\Desktop\server\cfx-server-data/resources//[system]/rconlog
+[      1062] Found new resource scoreboard in C:/Users\Admin\Desktop\server\cfx-server-data/resources//[system]/scoreboard
+[      1078] Found new resource sessionmanager in C:/Users\Admin\Desktop\server\cfx-server-data/resources//[system]/sessionmanager
+[      1093] Found new resource spawnmanager in C:/Users\Admin\Desktop\server\cfx-server-data/resources//[system]/spawnmanager
+[      1109] Found new resource betaguns in C:/Users\Admin\Desktop\server\cfx-server-data/resources//[test]/betaguns
+[      1125] Found new resource gameInit in C:/Users\Admin\Desktop\server\cfx-server-data/resources//[test]/gameInit
+[      1125] Found new resource keks in C:/Users\Admin\Desktop\server\cfx-server-data/resources//[test]/keks
+[      1140] Found new resource yarn in C:/Users\Admin\Desktop\server\cfx-server-data/resources//[system]/[builders]/yarn
+[      1187] Started resource sessionmanager
+[      1203] Started resource mapmanager
+[      1218] Started resource chat
+[      1218] Started resource spawnmanager
+[      1218] Started gametype Freeroam
+[      1234] Started resource fivem
+[      1234] Started resource hardcap
+[      1250] Started resource rconlog
+[      1250] Started resource scoreboard
+[      1828] Loaded MySQLAsync.net, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_1484862264
+[      1859] Instantiated instance of script MySQLAsync.MySQLAsync.
+[      1890] Started resource mysql-async
+[      1906] Started resource essentialmode
+[      1922] Started resource esplugin_mysql
+[      1968] Started resource es_admin2
+[      1984] Started resource async
+[      2000] Started resource baseevents
+[      2047] Started resource es_extended
+[      2062] Started resource instance
+[      2062] Started resource cron
+[      2078] Started resource skinchanger
+[      2093] Started resource esx_skin
+[      2093] Started resource esx_menu_default
+[      2109] Started resource esx_menu_list
+[      2109] Started resource esx_menu_dialog
+[      2125] Started resource esx_phone
+[      2140] Started resource esx_addonaccount
+[      2156] Started resource esx_addoninventory
+[      2172] Started resource esx_datastore
+[      2187] Started resource esx_society
+[      2203] Started resource esx_service
+[      2218] Started resource esx_billing
+[      2234] Started resource esx_jobs
+[      2234] Started resource esx_joblisting
+[      2265] Started resource esx_taxijob
+[      2281] Started resource esx_mecanojob
+[      2297] Started resource esx_policejob
+[      2312] Started resource esx_property
+[      2328] Started resource esx_realestateagentjob
+[      2343] Started resource esx_bankerjob
+[      2375] Started resource esx_ambulancejob
+[      2390] Started resource esx_vehicleshop
+[      2406] Started resource esx_status
+[      2422] Started resource esx_basicneeds
+[      2437] Started resource esx_clotheshop
+[      2453] Started resource esx_garage
+[      2468] Started resource esx_holdup
+[      2484] Started resource esx_drugs
+[      2500] Started resource esx_atm
+[      2515] Started resource esx_license
+[      2531] Started resource esx_weashops
+[      2547] Started resource esx_identity
+[      2547] Authenticating server license key...
+[      2859] Server license key authentication succeeded. Welcome!
+[      2922] Sending heartbeat to live-internal.fivem.net:30110
+[      2922] 
+[      2922] Current version: 5.0.2
+[      2937] Updater version: 5.0.2
+[      2937] 
+[      2937] Everything is fine!
+[      2937] 
+[      2937] Started map fivem-map-hipster
+[      2953] Started resource fivem-map-hipster
+[      3109] Loaded MySqlConnector, Version=0.26.0.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_1484862264
+[      3234] hitch warning: frame time of 314 milliseconds
+[      3297] Loaded System.Threading.Tasks.Extensions, Version=4.1.1.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51 into ScriptDomain_1484862264
+[      3500] Loaded System.Buffers, Version=4.0.2.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51 into ScriptDomain_1484862264
+[      3703] Error running system event handling function for resource esx_society: citizen:/scripting/lua/scheduler.lua:41: Failed to execute thread: server/main.lua:39: attempt to index a nil value (field '?')
+[      3703] stack traceback:
+[      3703] 	server/main.lua:39: in upvalue 'handler'
+[      3703] 	citizen:/scripting/lua/scheduler.lua:175: in function <citizen:/scripting/lua/scheduler.lua:174>
+[      3703] stack traceback:
+[      3718] 	[C]: in function 'error'
+[      3718] 	citizen:/scripting/lua/scheduler.lua:41: in field 'CreateThreadNow'
+[      3718] 	citizen:/scripting/lua/scheduler.lua:174: in function <citizen:/scripting/lua/scheduler.lua:138>
+[      3750] hitch warning: frame time of 524 milliseconds
