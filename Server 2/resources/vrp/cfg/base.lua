@@ -3,10 +3,10 @@ local cfg = {}
 
 -- mysql credentials
 cfg.db = {
-  host = "127.0.0.1", -- database ip (default is local)
+  host = "192.168.10.10", -- database ip (default is local)
   database = "vrpfx",   -- name of database
-  user = "root",    --  database username
-  password = ""   -- password of your database
+  user = "TSDBUser",    --  database username
+  password = "TROLLtroll12345!"   -- password of your database
 }
 
 cfg.save_interval = 30 -- seconds
@@ -20,7 +20,7 @@ cfg.global_delay = 0 -- milliseconds, delay the tunnel communication when not in
 
 
 				-- SET YOUR LANGUAGE HERE - MAKE SURE IT'S INSIDE THE ""
-cfg.lang = "en" -- en / fr / it / ger / pt / ru / lith / dan / ar / pl / es / swe / fin / cn / ro 
+cfg.lang = "en" -- en / fr / it / ger / pt / ru / lith / dan / ar / pl / es / swe / fin / cn / ro
 				-- English/Français/Italiano/Deutsche/Português/Pусский/Lietuvių/Dansk/العربية/Polskie/Español/Svenska/Suomalainen/中文/Română
 cfg.debug = false
 
