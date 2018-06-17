@@ -1,0 +1,10 @@
+[         0] INFO: No channel links found in configuration file.
+[       235] Resolved live-internal.fivem.net:30110 to 62.210.162.18:30110
+[       329] Found new resource Ease of Access Themes in C:/Windows/resources//Ease of Access Themes
+[       344] Resource loading for Ease%20of%20Access%20Themes failed:
+[       344] Could not open resource metadata file C:/Windows/resources//Ease of Access Themes/__resource.lua.
+[       344] Found new resource Themes in C:/Windows/resources//Themes
+[       375] Resource loading for Themes failed:
+[       375] Could not open resource metadata file C:/Windows/resources//Themes/__resource.lua.
+[       375] ^3Couldn't find resource sessionmanager.^7
+[       407] GlobalError: This server does not have a license key specified. Please set the sv_licenseKey console variable to a key from https://keymaster.fivem.net/. (for example, `set sv_licenseKey "key"` in the config, or `+set sv_licenseKey key` on the command line)
