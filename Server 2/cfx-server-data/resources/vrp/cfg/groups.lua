@@ -16,8 +16,33 @@ cfg.groups = {
     "player.group.remove",
     "player.givemoney",
     "player.giveitem"
+    "admin.tickets",
+    "admin.announce",
+    "admin.menu",
+    "admin.easy_unjail",
+    "admin.spikes",
+    "admin.godmode",
+    "admin.spawnveh",
+    "admin.deleteveh",
+    "player.blips",
+    "player.tptowaypoint",
+    "player.list",
+    "player.whitelist",
+    "player.unwhitelist",
+    "player.kick",
+    "player.ban",
+    "player.unban",
+    "player.noclip",
+    "player.custom_emote",
+    "player.custom_sound",
+    "player.display_custom",
+    "player.coords",
+    "player.tptome",
+    "emergency.revive",
+    "emergency.shop",
+    "player.tpto"
   },
-  ["admin"] = {
+  #["admin"] = {
     "admin.tickets",
     "admin.announce",
 	"admin.menu",
@@ -136,7 +161,7 @@ cfg.groups = {
     "smuggler.service"
     },
   ["Police Officer"] = {
-    _config = { 
+    _config = {
       gtype = "job",
       onjoin = function(player) vRPclient.setCop(player,{true}) end,
       onspawn = function(player) vRPclient.setCop(player,{true}) end,
@@ -179,8 +204,8 @@ cfg.groups = {
 	"player.blips",
 	"police.menu_interaction"
   },
-  ["Police Detective"] = {  
-    _config = { 
+  ["Police Detective"] = {
+    _config = {
       gtype = "job",
       onjoin = function(player) vRPclient.setCop(player,{true}) end,
       onspawn = function(player) vRPclient.setCop(player,{true}) end,
@@ -904,8 +929,8 @@ cfg.groups = {
 	-- "cop.whitelisted",
 	-- "trafficguard.paycheck"
   -- },
-  
-  
+
+
   -- whitelist group for police, emergency and president jobs / add player to this group and user can view the job selection / search in the map
   -- moderator=president / president is guy from the server give a player group cop ems moderator when admin is offline / sallary : $10.000
   ["cop"] = {
@@ -921,13 +946,13 @@ cfg.groups = {
     "player.group.remove"
     --"player.list"
   },
-  ["buyer"] = {  
+  ["buyer"] = {
     "exotic.vehicle"
   },
   ["mafia"] = {
 	"mafia.whitelisted"
   },
-  ["ems"] = {  
+  ["ems"] = {
     "ems.whitelisted"
   },
   ["moderator"] = {
@@ -1063,7 +1088,7 @@ cfg.selectors = {
     "Hacker",
     "Unemployed"
   }
-  
+
 }
 
 return cfg
