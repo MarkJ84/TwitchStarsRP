@@ -42,7 +42,7 @@ end)
 Citizen.CreateThread(function()
   while true do
   Citizen.Wait(0)
-	  if IsControlPressed(1, 289) then -- F2
+	  if IsControlPressed(1, 166) then -- F5 (original F2 - 289)
 		vRPserver.openPoliceMenu({})
 		end
 	end
