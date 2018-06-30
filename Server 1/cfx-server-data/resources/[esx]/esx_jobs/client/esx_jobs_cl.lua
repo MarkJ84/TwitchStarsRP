@@ -11,7 +11,7 @@ local Keys = {
 }
 
 local PlayerData              = {}
-local menuIsShowed            = false
+local menuIsShowed            = true
 local hintIsShowed            = false
 local hasAlreadyEnteredMarker = false
 local Blips                   = {}
@@ -49,7 +49,7 @@ Citizen.CreateThread(function()
 		TriggerEvent('esx:getSharedObject', function(obj) ESX = obj end)
 		Citizen.Wait(0)
 	end
-	
+
 	PlayerData = ESX.GetPlayerData()
 end)
 
