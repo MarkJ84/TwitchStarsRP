@@ -3765,3 +3765,1400 @@
 [      3718] 	citizen:/scripting/lua/scheduler.lua:41: in field 'CreateThreadNow'
 [      3718] 	citizen:/scripting/lua/scheduler.lua:174: in function <citizen:/scripting/lua/scheduler.lua:138>
 [      3750] hitch warning: frame time of 524 milliseconds
+[         0] INFO: No channel links found in configuration file.
+[       125] Resolved live-internal.fivem.net:30110 to 178.32.9.100:30110
+[       344] Found new resource coordsaver in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//coordsaver
+[       375] Found new resource esplugin_mysql in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//esplugin_mysql
+[       407] Found new resource essentialmode in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//essentialmode
+[       422] Found new resource fivem in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//fivem
+[       453] Found new resource fivem-awesome1501 in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//fivem-awesome1501
+[       469] Found new resource fivem-map-hipster in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//fivem-map-hipster
+[       485] Found new resource fivem-map-skater in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//fivem-map-skater
+[       500] Found new resource mysql-async in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//mysql-async
+[       516] Found new resource runcode in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//runcode
+[       547] Found new resource synn-loadscreen in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//synn-loadscreen
+[       563] Found new resource vMenu in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//vMenu
+[       578] Found new resource es_admin2 in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[essential]/es_admin2
+[       610] Found new resource async in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/async
+[       641] Found new resource cron in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/cron
+[       719] Found new resource esx-org.github.io in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx-org.github.io
+[       735] Resource loading for esx-org.github.io failed:
+[       735] Could not open resource metadata file C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx-org.github.io/__resource.lua.
+[       766] Found new resource esx_accessories in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_accessories
+[       782] Found new resource esx_addonaccount in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_addonaccount
+[       813] Found new resource esx_addoninventory in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_addoninventory
+[       844] Found new resource esx_ambulancejob in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_ambulancejob
+[       860] Found new resource esx_animations in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_animations
+[       891] Found new resource esx_atm in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_atm
+[       953] Found new resource esx_bankerjob in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_bankerjob
+[       969] Found new resource esx_barbershop in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_barbershop
+[      1032] Found new resource esx_basicneeds in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_basicneeds
+[      1047] Found new resource esx_billing in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_billing
+[      1078] Found new resource esx_boilerplate in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_boilerplate
+[      1110] Found new resource esx_clotheshop in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_clotheshop
+[      1125] Found new resource esx_cruisecontrol in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_cruisecontrol
+[      1157] Found new resource esx_datastore in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_datastore
+[      1219] Found new resource esx_dmvschool in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_dmvschool
+[      1235] Found new resource esx_drugs in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_drugs
+[      1266] Found new resource esx_garage in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_garage
+[      1297] Found new resource esx_holdup in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_holdup
+[      1313] Found new resource esx_identity in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_identity
+[      1344] Found new resource esx_joblisting in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_joblisting
+[      1422] Found new resource esx_jobs in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_jobs
+[      1453] Found new resource esx_license in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_license
+[      1469] Found new resource esx_lscustom in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_lscustom
+[      1500] Found new resource esx_mecanojob in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_mecanojob
+[      1594] Found new resource esx_menu_default in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_menu_default
+[      1625] Found new resource esx_menu_dialog in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_menu_dialog
+[      1641] Found new resource esx_menu_list in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_menu_list
+[      1672] Found new resource esx_optionalneeds in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_optionalneeds
+[      1688] Found new resource esx_phone in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_phone
+[      1719] Found new resource esx_policejob in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_policejob
+[      1735] Found new resource esx_property in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_property
+[      1766] Found new resource esx_realestateagentjob in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_realestateagentjob
+[      1797] Found new resource esx_rpchat-1.2.0 in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_rpchat-1.2.0
+[      1813] Found new resource esx_service in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_service
+[      1844] Found new resource esx_shops in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_shops
+[      1860] Found new resource esx_sit in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_sit
+[      1891] Found new resource esx_skin in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_skin
+[      1907] Found new resource esx_society in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_society
+[      1922] Found new resource esx_status in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_status
+[      1953] Found new resource esx_taxijob in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_taxijob
+[      1985] Found new resource esx_vehicleshop in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_vehicleshop
+[      2016] Found new resource esx_voice in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_voice
+[      2032] Found new resource esx_weashops in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_weashops
+[      2063] Found new resource esx_whitelist in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_whitelist
+[      2078] Found new resource esx_whitelistEnhanced in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_whitelistEnhanced
+[      2110] Found new resource es_camera in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/es_camera
+[      2125] Found new resource es_extended in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/es_extended
+[      2141] Found new resource instance in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/instance
+[      2172] Found new resource skinchanger in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/skinchanger
+[      2188] Found new resource race in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[gamemodes]/race
+[      2219] Found new resource race-test in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[gamemodes]/race-test
+[      2250] Found new resource channelfeed in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[gameplay]/channelfeed
+[      2282] Found new resource irc in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[gameplay]/irc
+[      2297] Found new resource obituary in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[gameplay]/obituary
+[      2328] Found new resource obituary-deaths in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[gameplay]/obituary-deaths
+[      2344] Found new resource playernames in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[gameplay]/playernames
+[      2375] Found new resource mapmanager in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[managers]/mapmanager
+[      2391] Found new resource baseevents in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[system]/baseevents
+[      2422] Found new resource chat in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[system]/chat
+[      2438] Found new resource chat-theme-gtao in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[system]/chat-theme-gtao
+[      2453] Found new resource hardcap in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[system]/hardcap
+[      2469] Found new resource rconlog in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[system]/rconlog
+[      2500] Found new resource scoreboard in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[system]/scoreboard
+[      2532] Found new resource sessionmanager in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[system]/sessionmanager
+[      2594] Found new resource spawnmanager in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[system]/spawnmanager
+[      2610] Found new resource betaguns in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[test]/betaguns
+[      2625] Found new resource gameInit in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[test]/gameInit
+[      2688] Found new resource keks in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[test]/keks
+[      2719] Found new resource webpack in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[system]/[builders]/webpack
+[      2844] Found new resource yarn in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[system]/[builders]/yarn
+[      2985] Started resource sessionmanager
+[      3110] Started resource mapmanager
+[      3282] Started resource chat
+[      3297] Started resource spawnmanager
+[      3328] Started gametype Freeroam
+[      3328] Started resource fivem
+[      3391] Started resource hardcap
+[      3422] Started resource rconlog
+[      3500] Started resource scoreboard
+[      5188] Loaded MySQLAsync.net, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_1284094614
+[      5235] Instantiated instance of script MySQLAsync.MySQLAsync.
+[      5469] Started resource mysql-async
+[      5594] Started resource essentialmode
+[      5703] Started resource esplugin_mysql
+[      6032] Started resource es_admin2
+[      6078] Started resource async
+[      6141] Started resource baseevents
+[      6453] Started resource es_extended
+[      6532] Started resource instance
+[      6578] Started resource cron
+[      6703] Started resource skinchanger
+[      6782] Started resource esx_skin
+[      7407] Started resource esx_menu_default
+[      7860] Started resource esx_menu_list
+[      7953] Started resource esx_menu_dialog
+[      8141] Started resource esx_phone
+[      8188] Started resource esx_addonaccount
+[      8235] Started resource esx_addoninventory
+[      8469] Started resource esx_datastore
+[      8563] Started resource esx_society
+[      8610] Started resource esx_service
+[      8688] Started resource esx_billing
+[      9094] Started resource esx_jobs
+[      9172] Started resource esx_joblisting
+[      9266] Started resource esx_taxijob
+[      9375] Started resource esx_mecanojob
+[      9500] Started resource esx_policejob
+[      9594] Started resource esx_property
+[      9672] Started resource esx_realestateagentjob
+[      9782] Started resource esx_bankerjob
+[      9953] Started resource esx_ambulancejob
+[     10078] Started resource esx_vehicleshop
+[     10188] Started resource esx_status
+[     10266] Started resource esx_basicneeds
+[     10344] Started resource esx_clotheshop
+[     10422] Started resource esx_garage
+[     10500] Started resource esx_holdup
+[     10594] Started resource esx_drugs
+[     10719] Started resource esx_atm
+[     10750] Started resource esx_license
+[     10828] Started resource esx_weashops
+[     10907] Started resource esx_identity
+[     11110] Started resource synn-loadscreen
+[     12016] Loaded vMenuServer.net, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_475483836
+[     12063] Instantiated instance of script GHMatti.Http.RequestInternal.
+[     12078] Instantiated instance of script GHMatti.Http.Request.
+[     12297] Loaded Newtonsoft.Json, Version=11.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed into ScriptDomain_475483836
+[     12750] Instantiated instance of script vMenuServer.BanManager.
+[     13203] Instantiated instance of script vMenuServer.MainServer.
+[     13250] Instantiated instance of script vMenuServer.UpdateChecker.
+[     13953] Started resource vMenu
+[     13969] Authenticating server license key...
+[     14203] Server license key authentication succeeded. Welcome!
+[     14282] Sending heartbeat to live-internal.fivem.net:30110
+[     14313] 
+[     14313] Current version: 5.0.2
+[     14328] Updater version: 5.2.0
+[     14328] 
+[     14344] 
+[     14360] Version mismatch, you are currently not using the newest stable version of essentialmode. Please update
+[     14360] 
+[     15875] Started map fivem-map-hipster
+[     15891] Started resource fivem-map-hipster
+[     16188] Loaded MySqlConnector, Version=0.26.0.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_1284094614
+[     16547] hitch warning: frame time of 2262 milliseconds
+[     16735] 
+[     16750] [vMenu] Checking for updates.
+[     16782] 
+[     16782] 
+[     16797] [vMenu] An error occurred while checking for updates. If you require immediate assistance email: contact@vespura.com.
+[     16813] [vMenu] Error info: Unexpected character encountered while parsing value: U. Path '', line 0, position 0.
+[     16828] 
+[     17157] Loaded System.Threading.Tasks.Extensions, Version=4.1.1.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51 into ScriptDomain_1284094614
+[     32188] [ERROR] [MySQL] An error happens on MySQL for query "SELECT * FROM items {=}": Unable to connect to any of the specified MySQL hosts.
+[     32250] Error running system event handling function for resource esx_addoninventory: citizen:/scripting/lua/scheduler.lua:41: Failed to execute thread: server/main.lua:14: attempt to get length of a nil value (local 'items')
+[     32266] stack traceback:
+[     32266] 	server/main.lua:14: in upvalue 'handler'
+[     32282] 	citizen:/scripting/lua/scheduler.lua:175: in function <citizen:/scripting/lua/scheduler.lua:174>
+[     32282] stack traceback:
+[     32282] 	[C]: in function 'error'
+[     32297] 	citizen:/scripting/lua/scheduler.lua:41: in field 'CreateThreadNow'
+[     32313] 	citizen:/scripting/lua/scheduler.lua:174: in function <citizen:/scripting/lua/scheduler.lua:138>
+[     47375] [ERROR] [MySQL] An error happens on MySQL for query "SELECT * FROM properties {=}": Connect Timeout expired.
+[     47407] [ERROR] [MySQL] An error happens on MySQL for query "SELECT * FROM addon_account {=}": Unable to connect to any of the specified MySQL hosts.
+[     47469] Error running system event handling function for resource esx_addonaccount: citizen:/scripting/lua/scheduler.lua:41: Failed to execute thread: server/main.lua:12: attempt to get length of a nil value (local 'result')
+[     47469] stack traceback:
+[     47485] 	server/main.lua:12: in upvalue 'handler'
+[     47485] 	citizen:/scripting/lua/scheduler.lua:175: in function <citizen:/scripting/lua/scheduler.lua:174>
+[     47500] stack traceback:
+[     47500] 	[C]: in function 'error'
+[     47516] 	citizen:/scripting/lua/scheduler.lua:41: in field 'CreateThreadNow'
+[     47516] 	citizen:/scripting/lua/scheduler.lua:174: in function <citizen:/scripting/lua/scheduler.lua:138>
+[     62532] [ERROR] [MySQL] An error happens on MySQL for query "SELECT * FROM datastore {=}": Unable to connect to any of the specified MySQL hosts.
+[     62594] Error running system event handling function for resource esx_datastore: citizen:/scripting/lua/scheduler.lua:41: Failed to execute thread: server/main.lua:14: attempt to get length of a nil value (local 'result')
+[     62610] stack traceback:
+[     62610] 	server/main.lua:14: in upvalue 'handler'
+[     62625] 	citizen:/scripting/lua/scheduler.lua:175: in function <citizen:/scripting/lua/scheduler.lua:174>
+[     62625] stack traceback:
+[     62625] 	[C]: in function 'error'
+[     62641] 	citizen:/scripting/lua/scheduler.lua:41: in field 'CreateThreadNow'
+[     62672] 	citizen:/scripting/lua/scheduler.lua:174: in function <citizen:/scripting/lua/scheduler.lua:138>
+[     77703] [ERROR] [MySQL] An error happens on MySQL for query "SELECT * FROM jobs {=}": Unable to connect to any of the specified MySQL hosts.
+[     77766] Error running system event handling function for resource esx_society: citizen:/scripting/lua/scheduler.lua:41: Failed to execute thread: server/main.lua:31: attempt to get length of a nil value (local 'result')
+[     77766] stack traceback:
+[     77782] 	server/main.lua:31: in upvalue 'handler'
+[     77782] 	citizen:/scripting/lua/scheduler.lua:175: in function <citizen:/scripting/lua/scheduler.lua:174>
+[     77797] stack traceback:
+[     77797] 	[C]: in function 'error'
+[     77813] 	citizen:/scripting/lua/scheduler.lua:41: in field 'CreateThreadNow'
+[     77813] 	citizen:/scripting/lua/scheduler.lua:174: in function <citizen:/scripting/lua/scheduler.lua:138>
+[     92844] [ERROR] [MySQL] An error happens on MySQL for query "SELECT * FROM vehicle_categories {=}": Unable to connect to any of the specified MySQL hosts.
+[         0] INFO: No channel links found in configuration file.
+[        78] Resolved live-internal.fivem.net:30110 to 178.32.9.100:30110
+[       203] Found new resource coordsaver in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//coordsaver
+[       219] Found new resource esplugin_mysql in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//esplugin_mysql
+[       235] Found new resource essentialmode in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//essentialmode
+[       266] Found new resource fivem in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//fivem
+[       391] Found new resource fivem-awesome1501 in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//fivem-awesome1501
+[       407] Found new resource fivem-map-hipster in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//fivem-map-hipster
+[       422] Found new resource fivem-map-skater in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//fivem-map-skater
+[       438] Found new resource mysql-async in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//mysql-async
+[       453] Found new resource runcode in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//runcode
+[       469] Found new resource synn-loadscreen in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//synn-loadscreen
+[       500] Found new resource vMenu in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//vMenu
+[       516] Found new resource es_admin2 in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[essential]/es_admin2
+[       532] Found new resource async in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/async
+[       547] Found new resource cron in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/cron
+[       563] Found new resource esx-org.github.io in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx-org.github.io
+[       594] Resource loading for esx-org.github.io failed:
+[       594] Could not open resource metadata file C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx-org.github.io/__resource.lua.
+[       625] Found new resource esx_accessories in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_accessories
+[       641] Found new resource esx_addonaccount in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_addonaccount
+[       672] Found new resource esx_addoninventory in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_addoninventory
+[       703] Found new resource esx_ambulancejob in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_ambulancejob
+[       719] Found new resource esx_animations in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_animations
+[       735] Found new resource esx_atm in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_atm
+[       766] Found new resource esx_bankerjob in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_bankerjob
+[       782] Found new resource esx_barbershop in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_barbershop
+[       813] Found new resource esx_basicneeds in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_basicneeds
+[       828] Found new resource esx_billing in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_billing
+[       844] Found new resource esx_boilerplate in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_boilerplate
+[       860] Found new resource esx_clotheshop in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_clotheshop
+[       891] Found new resource esx_cruisecontrol in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_cruisecontrol
+[       907] Found new resource esx_datastore in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_datastore
+[       922] Found new resource esx_dmvschool in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_dmvschool
+[       953] Found new resource esx_drugs in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_drugs
+[       969] Found new resource esx_garage in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_garage
+[       985] Found new resource esx_holdup in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_holdup
+[      1016] Found new resource esx_identity in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_identity
+[      1032] Found new resource esx_joblisting in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_joblisting
+[      1063] Found new resource esx_jobs in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_jobs
+[      1078] Found new resource esx_license in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_license
+[      1094] Found new resource esx_lscustom in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_lscustom
+[      1125] Found new resource esx_mecanojob in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_mecanojob
+[      1141] Found new resource esx_menu_default in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_menu_default
+[      1157] Found new resource esx_menu_dialog in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_menu_dialog
+[      1188] Found new resource esx_menu_list in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_menu_list
+[      1203] Found new resource esx_optionalneeds in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_optionalneeds
+[      1235] Found new resource esx_phone in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_phone
+[      1250] Found new resource esx_policejob in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_policejob
+[      1282] Found new resource esx_property in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_property
+[      1297] Found new resource esx_realestateagentjob in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_realestateagentjob
+[      1328] Found new resource esx_rpchat-1.2.0 in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_rpchat-1.2.0
+[      1344] Found new resource esx_service in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_service
+[      1360] Found new resource esx_shops in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_shops
+[      1375] Found new resource esx_sit in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_sit
+[      1391] Found new resource esx_skin in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_skin
+[      1407] Found new resource esx_society in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_society
+[      1438] Found new resource esx_status in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_status
+[      1453] Found new resource esx_taxijob in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_taxijob
+[      1469] Found new resource esx_vehicleshop in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_vehicleshop
+[      1485] Found new resource esx_voice in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_voice
+[      1516] Found new resource esx_weashops in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_weashops
+[      1547] Found new resource esx_whitelist in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_whitelist
+[      1563] Found new resource esx_whitelistEnhanced in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_whitelistEnhanced
+[      1578] Found new resource es_camera in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/es_camera
+[      1610] Found new resource es_extended in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/es_extended
+[      1625] Found new resource instance in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/instance
+[      1641] Found new resource skinchanger in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/skinchanger
+[      1688] Found new resource race in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[gamemodes]/race
+[      1703] Found new resource race-test in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[gamemodes]/race-test
+[      1719] Found new resource channelfeed in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[gameplay]/channelfeed
+[      1735] Found new resource irc in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[gameplay]/irc
+[      1766] Found new resource obituary in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[gameplay]/obituary
+[      1782] Found new resource obituary-deaths in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[gameplay]/obituary-deaths
+[      1797] Found new resource playernames in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[gameplay]/playernames
+[      1813] Found new resource mapmanager in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[managers]/mapmanager
+[      1828] Found new resource baseevents in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[system]/baseevents
+[      1860] Found new resource chat in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[system]/chat
+[      1875] Found new resource chat-theme-gtao in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[system]/chat-theme-gtao
+[      1891] Found new resource hardcap in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[system]/hardcap
+[      1907] Found new resource rconlog in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[system]/rconlog
+[      1922] Found new resource scoreboard in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[system]/scoreboard
+[      1953] Found new resource sessionmanager in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[system]/sessionmanager
+[      1969] Found new resource spawnmanager in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[system]/spawnmanager
+[      1985] Found new resource betaguns in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[test]/betaguns
+[      2000] Found new resource gameInit in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[test]/gameInit
+[      2032] Found new resource keks in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[test]/keks
+[      2047] Found new resource webpack in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[system]/[builders]/webpack
+[      2063] Found new resource yarn in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[system]/[builders]/yarn
+[      2172] Started resource sessionmanager
+[      2203] Started resource mapmanager
+[      2219] Started resource chat
+[      2235] Started resource spawnmanager
+[      2250] Started gametype Freeroam
+[      2266] Started resource fivem
+[      2282] Started resource hardcap
+[      2297] Started resource rconlog
+[      2297] Started resource scoreboard
+[      2328] Started resource essentialmode
+[      2344] Started resource esplugin_mysql
+[      2375] Started resource es_admin2
+[      3938] Loaded MySQLAsync.net, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_1970595972
+[      4000] Instantiated instance of script MySQLAsync.MySQLAsync.
+[      4110] Started resource mysql-async
+[      4125] Started resource async
+[      4157] Started resource baseevents
+[      4219] Started resource es_extended
+[      4235] Started resource instance
+[      4250] Started resource cron
+[      4282] Started resource skinchanger
+[      4297] Started resource esx_skin
+[      4313] Started resource esx_menu_default
+[      4328] Started resource esx_menu_list
+[      4360] Started resource esx_menu_dialog
+[      4485] Started resource esx_phone
+[      4516] Started resource esx_addonaccount
+[      4532] Started resource esx_addoninventory
+[      4563] Started resource esx_datastore
+[      4578] Started resource esx_society
+[      4594] Started resource esx_service
+[      4625] Started resource esx_billing
+[      4657] Started resource esx_jobs
+[      4688] Started resource esx_joblisting
+[      4703] Started resource esx_taxijob
+[      4735] Started resource esx_mecanojob
+[      4766] Started resource esx_policejob
+[      4782] Started resource esx_property
+[      4813] Started resource esx_realestateagentjob
+[      4844] Started resource esx_bankerjob
+[      4875] Started resource esx_ambulancejob
+[      4907] Started resource esx_vehicleshop
+[      4922] Started resource esx_status
+[      4938] Started resource esx_basicneeds
+[      4969] Started resource esx_clotheshop
+[      5000] Started resource esx_garage
+[      5016] Started resource esx_holdup
+[      5047] Started resource esx_drugs
+[      5078] Started resource esx_atm
+[      5094] Started resource esx_license
+[      5110] Started resource esx_weashops
+[      5141] Started resource esx_identity
+[      5172] Started resource synn-loadscreen
+[      5985] Loaded vMenuServer.net, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_1946710856
+[      6032] Instantiated instance of script GHMatti.Http.RequestInternal.
+[      6047] Instantiated instance of script GHMatti.Http.Request.
+[      6219] Loaded Newtonsoft.Json, Version=11.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed into ScriptDomain_1946710856
+[      6250] Instantiated instance of script vMenuServer.BanManager.
+[      6625] Instantiated instance of script vMenuServer.MainServer.
+[      6672] Instantiated instance of script vMenuServer.UpdateChecker.
+[      6766] Started resource vMenu
+[      6782] Authenticating server license key...
+[      6985] Server license key authentication succeeded. Welcome!
+[      7047] Sending heartbeat to live-internal.fivem.net:30110
+[      7078] 
+[      7078] Current version: 5.0.2
+[      7094] Updater version: 5.2.0
+[      7094] 
+[      7110] 
+[      7125] Version mismatch, you are currently not using the newest stable version of essentialmode. Please update
+[      7203] 
+[      8750] Started map fivem-map-skater
+[      8750] Started resource fivem-map-skater
+[      9000] Loaded MySqlConnector, Version=0.26.0.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_1970595972
+[      9250] hitch warning: frame time of 2199 milliseconds
+[      9453] 
+[      9469] [vMenu] Checking for updates.
+[      9500] 
+[      9516] 
+[      9516] [vMenu] An error occurred while checking for updates. If you require immediate assistance email: contact@vespura.com.
+[      9532] [vMenu] Error info: Unexpected character encountered while parsing value: U. Path '', line 0, position 0.
+[      9532] 
+[      9688] Loaded System.Threading.Tasks.Extensions, Version=4.1.1.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51 into ScriptDomain_1970595972
+[     24782] [ERROR] [MySQL] An error happens on MySQL for query "SELECT * FROM items {=}": Unable to connect to any of the specified MySQL hosts.
+[     24844] Error running system event handling function for resource esx_addoninventory: citizen:/scripting/lua/scheduler.lua:41: Failed to execute thread: server/main.lua:14: attempt to get length of a nil value (local 'items')
+[     24860] stack traceback:
+[     24860] 	server/main.lua:14: in upvalue 'handler'
+[     24875] 	citizen:/scripting/lua/scheduler.lua:175: in function <citizen:/scripting/lua/scheduler.lua:174>
+[     24875] stack traceback:
+[     24891] 	[C]: in function 'error'
+[     24891] 	citizen:/scripting/lua/scheduler.lua:41: in field 'CreateThreadNow'
+[     24891] 	citizen:/scripting/lua/scheduler.lua:174: in function <citizen:/scripting/lua/scheduler.lua:138>
+[     39969] [ERROR] [MySQL] An error happens on MySQL for query "SELECT * FROM properties {=}": Connect Timeout expired.
+[     39985] [ERROR] [MySQL] An error happens on MySQL for query "SELECT * FROM addon_account {=}": Unable to connect to any of the specified MySQL hosts.
+[     40063] Error running system event handling function for resource esx_addonaccount: citizen:/scripting/lua/scheduler.lua:41: Failed to execute thread: server/main.lua:12: attempt to get length of a nil value (local 'result')
+[     40063] stack traceback:
+[     40078] 	server/main.lua:12: in upvalue 'handler'
+[     40078] 	citizen:/scripting/lua/scheduler.lua:175: in function <citizen:/scripting/lua/scheduler.lua:174>
+[     40094] stack traceback:
+[     40094] 	[C]: in function 'error'
+[     40094] 	citizen:/scripting/lua/scheduler.lua:41: in field 'CreateThreadNow'
+[     40110] 	citizen:/scripting/lua/scheduler.lua:174: in function <citizen:/scripting/lua/scheduler.lua:138>
+[     55125] [ERROR] [MySQL] An error happens on MySQL for query "SELECT * FROM datastore {=}": Unable to connect to any of the specified MySQL hosts.
+[     55203] Error running system event handling function for resource esx_datastore: citizen:/scripting/lua/scheduler.lua:41: Failed to execute thread: server/main.lua:14: attempt to get length of a nil value (local 'result')
+[     55219] stack traceback:
+[     55219] 	server/main.lua:14: in upvalue 'handler'
+[     55219] 	citizen:/scripting/lua/scheduler.lua:175: in function <citizen:/scripting/lua/scheduler.lua:174>
+[     55235] stack traceback:
+[     55235] 	[C]: in function 'error'
+[     55250] 	citizen:/scripting/lua/scheduler.lua:41: in field 'CreateThreadNow'
+[     55250] 	citizen:/scripting/lua/scheduler.lua:174: in function <citizen:/scripting/lua/scheduler.lua:138>
+[     70282] [ERROR] [MySQL] An error happens on MySQL for query "SELECT * FROM jobs {=}": Unable to connect to any of the specified MySQL hosts.
+[     70360] Error running system event handling function for resource esx_society: citizen:/scripting/lua/scheduler.lua:41: Failed to execute thread: server/main.lua:31: attempt to get length of a nil value (local 'result')
+[     70360] stack traceback:
+[     70360] 	server/main.lua:31: in upvalue 'handler'
+[     70375] 	citizen:/scripting/lua/scheduler.lua:175: in function <citizen:/scripting/lua/scheduler.lua:174>
+[     70375] stack traceback:
+[     70391] 	[C]: in function 'error'
+[     70391] 	citizen:/scripting/lua/scheduler.lua:41: in field 'CreateThreadNow'
+[     70407] 	citizen:/scripting/lua/scheduler.lua:174: in function <citizen:/scripting/lua/scheduler.lua:138>
+[       250] INFO: No channel links found in configuration file.
+[       563] Resolved live-internal.fivem.net:30110 to 178.32.9.100:30110
+[       688] Found new resource coordsaver in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//coordsaver
+[       703] Found new resource esplugin_mysql in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//esplugin_mysql
+[       719] Found new resource essentialmode in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//essentialmode
+[       735] Found new resource fivem in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//fivem
+[       766] Found new resource fivem-awesome1501 in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//fivem-awesome1501
+[       781] Found new resource fivem-map-hipster in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//fivem-map-hipster
+[       797] Found new resource fivem-map-skater in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//fivem-map-skater
+[       813] Found new resource mysql-async in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//mysql-async
+[       828] Found new resource runcode in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//runcode
+[       844] Found new resource synn-loadscreen in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//synn-loadscreen
+[       860] Found new resource vMenu in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//vMenu
+[       875] Found new resource es_admin2 in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[essential]/es_admin2
+[       891] Found new resource async in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/async
+[       906] Found new resource cron in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/cron
+[       922] Found new resource esx-org.github.io in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx-org.github.io
+[       953] Resource loading for esx-org.github.io failed:
+[       969] Could not open resource metadata file C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx-org.github.io/__resource.lua.
+[       985] Found new resource esx_accessories in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_accessories
+[      1000] Found new resource esx_addonaccount in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_addonaccount
+[      1031] Found new resource esx_addoninventory in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_addoninventory
+[      1047] Found new resource esx_ambulancejob in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_ambulancejob
+[      1078] Found new resource esx_animations in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_animations
+[      1094] Found new resource esx_atm in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_atm
+[      1110] Found new resource esx_bankerjob in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_bankerjob
+[      1141] Found new resource esx_barbershop in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_barbershop
+[      1156] Found new resource esx_basicneeds in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_basicneeds
+[      1172] Found new resource esx_billing in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_billing
+[      1203] Found new resource esx_boilerplate in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_boilerplate
+[      1235] Found new resource esx_clotheshop in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_clotheshop
+[      1250] Found new resource esx_cruisecontrol in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_cruisecontrol
+[      1266] Found new resource esx_datastore in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_datastore
+[      1297] Found new resource esx_dmvschool in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_dmvschool
+[      1344] Found new resource esx_drugs in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_drugs
+[      1360] Found new resource esx_garage in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_garage
+[      1375] Found new resource esx_holdup in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_holdup
+[      1406] Found new resource esx_identity in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_identity
+[      1422] Found new resource esx_joblisting in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_joblisting
+[      1438] Found new resource esx_jobs in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_jobs
+[      1453] Found new resource esx_license in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_license
+[      1485] Found new resource esx_lscustom in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_lscustom
+[      1500] Found new resource esx_mecanojob in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_mecanojob
+[      1531] Found new resource esx_menu_default in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_menu_default
+[      1547] Found new resource esx_menu_dialog in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_menu_dialog
+[      1578] Found new resource esx_menu_list in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_menu_list
+[      1594] Found new resource esx_optionalneeds in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_optionalneeds
+[      1610] Found new resource esx_phone in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_phone
+[      1625] Found new resource esx_policejob in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_policejob
+[      1656] Found new resource esx_property in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_property
+[      1672] Found new resource esx_realestateagentjob in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_realestateagentjob
+[      1703] Found new resource esx_rpchat-1.2.0 in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_rpchat-1.2.0
+[      1719] Found new resource esx_service in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_service
+[      1735] Found new resource esx_shops in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_shops
+[      1750] Found new resource esx_sit in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_sit
+[      1766] Found new resource esx_skin in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_skin
+[      1797] Found new resource esx_society in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_society
+[      1813] Found new resource esx_status in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_status
+[      1828] Found new resource esx_taxijob in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_taxijob
+[      1860] Found new resource esx_vehicleshop in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_vehicleshop
+[      1875] Found new resource esx_voice in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_voice
+[      1891] Found new resource esx_weashops in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_weashops
+[      1922] Found new resource esx_whitelist in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_whitelist
+[      1938] Found new resource esx_whitelistEnhanced in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_whitelistEnhanced
+[      1953] Found new resource es_camera in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/es_camera
+[      1969] Found new resource es_extended in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/es_extended
+[      1985] Found new resource instance in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/instance
+[      2016] Found new resource skinchanger in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/skinchanger
+[      2031] Found new resource race in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[gamemodes]/race
+[      2063] Found new resource race-test in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[gamemodes]/race-test
+[      2078] Found new resource channelfeed in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[gameplay]/channelfeed
+[      2094] Found new resource irc in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[gameplay]/irc
+[      2110] Found new resource obituary in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[gameplay]/obituary
+[      2141] Found new resource obituary-deaths in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[gameplay]/obituary-deaths
+[      2156] Found new resource playernames in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[gameplay]/playernames
+[      2188] Found new resource mapmanager in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[managers]/mapmanager
+[      2203] Found new resource baseevents in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[system]/baseevents
+[      2219] Found new resource chat in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[system]/chat
+[      2235] Found new resource chat-theme-gtao in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[system]/chat-theme-gtao
+[      2250] Found new resource hardcap in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[system]/hardcap
+[      2281] Found new resource rconlog in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[system]/rconlog
+[      2297] Found new resource scoreboard in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[system]/scoreboard
+[      2313] Found new resource sessionmanager in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[system]/sessionmanager
+[      2344] Found new resource spawnmanager in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[system]/spawnmanager
+[      2360] Found new resource betaguns in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[test]/betaguns
+[      2375] Found new resource gameInit in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[test]/gameInit
+[      2391] Found new resource keks in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[test]/keks
+[      2422] Found new resource webpack in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[system]/[builders]/webpack
+[      2453] Found new resource yarn in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[system]/[builders]/yarn
+[      2547] Started resource sessionmanager
+[      2578] Started resource mapmanager
+[      2594] Started resource chat
+[      2610] Started resource spawnmanager
+[      2625] Started gametype Freeroam
+[      2641] Started resource fivem
+[      2656] Started resource hardcap
+[      2813] Started resource rconlog
+[      2828] Started resource scoreboard
+[      2844] Started resource essentialmode
+[      2875] Started resource esplugin_mysql
+[      2891] Started resource es_admin2
+[      4422] Loaded MySQLAsync.net, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_694516994
+[      4485] Instantiated instance of script MySQLAsync.MySQLAsync.
+[      4578] Started resource mysql-async
+[      4594] Started resource async
+[      4610] Started resource baseevents
+[      4688] Started resource es_extended
+[      4719] Started resource instance
+[      4735] Started resource cron
+[      4750] Started resource skinchanger
+[      4766] Started resource esx_skin
+[      4781] Started resource esx_menu_default
+[      4813] Started resource esx_menu_list
+[      4828] Started resource esx_menu_dialog
+[      4844] Started resource esx_phone
+[      4875] Started resource esx_addonaccount
+[      4891] Started resource esx_addoninventory
+[      4922] Started resource esx_datastore
+[      4953] Started resource esx_society
+[      4969] Started resource esx_service
+[      5000] Started resource esx_billing
+[      5016] Started resource esx_jobs
+[      5047] Started resource esx_joblisting
+[      5078] Started resource esx_taxijob
+[      5094] Started resource esx_mecanojob
+[      5125] Started resource esx_policejob
+[      5156] Started resource esx_property
+[      5172] Started resource esx_realestateagentjob
+[      5203] Started resource esx_bankerjob
+[      5235] Started resource esx_ambulancejob
+[      5266] Started resource esx_vehicleshop
+[      5297] Started resource esx_status
+[      5313] Started resource esx_basicneeds
+[      5344] Started resource esx_clotheshop
+[      5360] Started resource esx_garage
+[      5391] Started resource esx_holdup
+[      5438] Started resource esx_drugs
+[      5453] Started resource esx_atm
+[      5485] Started resource esx_license
+[      5500] Started resource esx_weashops
+[      5531] Started resource esx_identity
+[      5547] Started resource synn-loadscreen
+[      6391] Loaded vMenuServer.net, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_1511186248
+[      6438] Instantiated instance of script GHMatti.Http.RequestInternal.
+[      6453] Instantiated instance of script GHMatti.Http.Request.
+[      6641] Loaded Newtonsoft.Json, Version=11.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed into ScriptDomain_1511186248
+[      6656] Instantiated instance of script vMenuServer.BanManager.
+[      7063] Instantiated instance of script vMenuServer.MainServer.
+[      7110] Instantiated instance of script vMenuServer.UpdateChecker.
+[      7188] Started resource vMenu
+[      7203] Authenticating server license key...
+[      7406] Server license key authentication succeeded. Welcome!
+[      7469] Sending heartbeat to live-internal.fivem.net:30110
+[      7485] 
+[      7500] Current version: 5.0.2
+[      7516] Updater version: 5.2.0
+[      7516] 
+[      7531] 
+[      7531] Version mismatch, you are currently not using the newest stable version of essentialmode. Please update
+[      7547] 
+[      7547] -------------------------------------------------------------
+[      7563] --- No errors detected, essentialmode is setup properly. ---
+[      7578] -------------------------------------------------------------
+[      7625] Started map fivem-map-skater
+[      7641] Started resource fivem-map-skater
+[      7906] Loaded MySqlConnector, Version=0.26.0.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_694516994
+[      8531] System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.ArgumentException: Format of the initialization string does not conform to specification starting at index 0.
+[      8563]   at System.Data.Common.DbConnectionOptions.GetKeyValuePair (System.String connectionString, System.Int32 currentPosition, System.Text.StringBuilder buffer, System.Boolean useOdbcRules, System.String& keyname, System.String& keyvalue) [0x000d4] in <c660f5a12cac430aa34fafb29a22e588>:0 
+[      8610]   at System.Data.Common.DbConnectionOptions.ParseInternal (System.Collections.Hashtable parsetable, System.String connectionString, System.Boolean buildChain, System.Collections.Hashtable synonyms, System.Boolean firstKey) [0x0001c] in <c660f5a12cac430aa34fafb29a22e588>:0 
+[      8641]   at System.Data.Common.DbConnectionOptions..ctor (System.String connectionString, System.Collections.Hashtable synonyms, System.Boolean useOdbcRules) [0x00037] in <c660f5a12cac430aa34fafb29a22e588>:0 
+[      8688]   at System.Data.Common.DbConnectionStringBuilder.set_ConnectionString (System.String value) [0x00015] in <c660f5a12cac430aa34fafb29a22e588>:0 
+[      8735]   at MySql.Data.MySqlClient.MySqlConnectionStringBuilder..ctor (System.String connectionString) [0x00006] in <5d2e43c2aa6f4da0bb43a6a12077ad51>:0 
+[      8969]   at MySQLAsync.MySQLAsync.Configure (System.String connectionStringConfig, System.Boolean debug) [0x00000] in <6b79789832b34a31961dbb39358e1b3f>:0 
+[      9016]   at MySQLAsync.MySQLAsync.<.ctor>b__2_0 () [0x00047] in <6b79789832b34a31961dbb39358e1b3f>:0 
+[      9063]   at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (System.Reflection.MonoMethod,object,object[],System.Exception&)
+[      9110]   at System.Reflection.MonoMethod.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00032] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[      9156]    --- End of inner exception stack trace ---
+[      9188] 
+[      9235] 
+[      9266] Server stack trace: 
+[      9313]   at System.Reflection.MonoMethod.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00048] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[      9344]   at System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) [0x00000] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[      9391]   at System.Delegate.DynamicInvokeImpl (System.Object[] args) [0x000e7] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[      9438]   at System.MulticastDelegate.DynamicInvokeImpl (System.Object[] args) [0x00008] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[      9485]   at System.Delegate.DynamicInvoke (System.Object[] args) [0x00000] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[      9531]   at CitizenFX.Core.FunctionReference.Invoke (System.Int32 reference, System.Byte[] arguments) [0x00062] in C:\gl\builds\4ff63adb\0\cfx\fivem\code\client\clrcore\FunctionReference.cs:62 
+[      9578]   at CitizenFX.Core.InternalManager.CallRef (System.Int32 refIndex, System.Byte[] argsSerialized, System.IntPtr& retvalSerialized, System.Int32& retvalSize) [0x00000] in C:\gl\builds\4ff63adb\0\cfx\fivem\code\client\clrcore\InternalManager.cs:247 
+[      9625]   at (wrapper remoting-invoke-with-check) CitizenFX.Core.InternalManager:CallRef (int,byte[],intptr&,int&)
+[      9656]   at (wrapper xdomain-dispatch) CitizenFX.Core.InternalManager:CallRef (object,byte[]&,byte[]&,int,byte[],int&)
+[      9703] 
+[      9750] Exception rethrown at [0]: 
+[      9797]   at (wrapper xdomain-invoke) CitizenFX.Core.InternalManager:CallRef (int,byte[],intptr&,int&)
+[      9828]   at (wrapper remoting-invoke-with-check) CitizenFX.Core.InternalManager:CallRef (int,byte[],intptr&,int&)
+[      9875]   at CitizenFX.Core.MonoScriptRuntime.CallRef (System.Int32 refIndex, System.Byte[] argsSerialized, System.Int32 argsSize, System.IntPtr& retvalSerialized, System.Int32& retvalSize) [0x00013] in C:\gl\builds\4ff63adb\0\cfx\fivem\code\client\clrcore\MonoScriptRuntime.cs:151 
+[     10000] Error running system event handling function for resource mysql-async: citizen:/scripting/lua/scheduler.lua:41: Failed to execute thread: citizen:/scripting/lua/scheduler.lua:663: An error happened while calling export mysql_configure of resource mysql-async (citizen:/scripting/lua/MessagePack.lua:830: missing bytes), see above for details
+[     10031] stack traceback:
+[     10078] 	[C]: in function 'error'
+[     10125] 	citizen:/scripting/lua/scheduler.lua:663: in method 'mysql_configure'
+[     10172] 	lib/init.lua:3: in upvalue 'handler'
+[     10219] 	citizen:/scripting/lua/scheduler.lua:175: in function <citizen:/scripting/lua/scheduler.lua:174>
+[     10266] stack traceback:
+[     10297] 	[C]: in function 'error'
+[     10344] 	citizen:/scripting/lua/scheduler.lua:41: in field 'CreateThreadNow'
+[     10391] 	citizen:/scripting/lua/scheduler.lua:174: in function <citizen:/scripting/lua/scheduler.lua:138>
+[     10485] hitch warning: frame time of 3021 milliseconds
+[     12172] 
+[     12250] [vMenu] Checking for updates.
+[     12328] 
+[     12360] 
+[     12422] [vMenu] An error occurred while checking for updates. If you require immediate assistance email: contact@vespura.com.
+[     12485] [vMenu] Error info: Unexpected character encountered while parsing value: U. Path '', line 0, position 0.
+[     12516] 
+[     12610] hitch warning: frame time of 2120 milliseconds
+[     17203] Connecting: Dennis The Menace
+[     26563] Sending heartbeat to live-internal.fivem.net:30110
+[     79953] Loaded System.Threading.Tasks.Extensions, Version=4.1.1.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51 into ScriptDomain_694516994
+[     80063] hitch warning: frame time of 249 milliseconds
+[     81016] Error occurred while attempting to find user in CouchDB.
+[     81516] [ERROR] [MySQL] An error happens on MySQL for query "SELECT * FROM weashops {=}": Unable to connect to any of the specified MySQL hosts.
+[     82391] [ERROR] [MySQL] An error happens on MySQL for query "SELECT isDead FROM users WHERE identifier=@identifier {@identifier=steam:11000010a50d8c9}": Unable to connect to any of the specified MySQL hosts.
+[     93031] Error running system event handling function for resource esx_phone: citizen:/scripting/lua/scheduler.lua:41: Failed to execute thread: server/main.lua:165: attempt to index a nil value (local 'xPlayer')
+[     93047] stack traceback:
+[     93047] 	server/main.lua:165: in upvalue 'handler'
+[     93063] 	citizen:/scripting/lua/scheduler.lua:175: in function <citizen:/scripting/lua/scheduler.lua:174>
+[     93063] stack traceback:
+[     93078] 	[C]: in function 'error'
+[     93078] 	citizen:/scripting/lua/scheduler.lua:41: in field 'CreateThreadNow'
+[     93094] 	citizen:/scripting/lua/scheduler.lua:174: in function <citizen:/scripting/lua/scheduler.lua:138>
+[    168297] Error running call reference function for resource essentialmode: citizen:/scripting/lua/scheduler.lua:351: server/main.lua:218: attempt to index a nil value (field '?')
+[    168297] stack traceback:
+[    168297] 	server/main.lua:218: in upvalue 'ref'
+[    168313] 	citizen:/scripting/lua/scheduler.lua:337: in function <citizen:/scripting/lua/scheduler.lua:336>
+[    168313] 	[C]: in function 'xpcall'
+[    168328] 	citizen:/scripting/lua/scheduler.lua:336: in function <citizen:/scripting/lua/scheduler.lua:335>
+[    168328] stack traceback:
+[    168344] 	[C]: in function 'error'
+[    168344] 	citizen:/scripting/lua/scheduler.lua:351: in function <citizen:/scripting/lua/scheduler.lua:322>
+[    168360] hitch warning: frame time of 156 milliseconds
+[    206656] Sending heartbeat to live-internal.fivem.net:30110
+[         0] INFO: No channel links found in configuration file.
+[        62] Resolved live-internal.fivem.net:30110 to 178.32.9.100:30110
+[       187] Found new resource coordsaver in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//coordsaver
+[       203] Found new resource esplugin_mysql in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//esplugin_mysql
+[       234] Found new resource essentialmode in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//essentialmode
+[       234] Found new resource fivem in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//fivem
+[       265] Found new resource fivem-awesome1501 in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//fivem-awesome1501
+[       281] Found new resource fivem-map-hipster in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//fivem-map-hipster
+[       297] Found new resource fivem-map-skater in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//fivem-map-skater
+[       312] Found new resource mysql-async in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//mysql-async
+[       343] Found new resource runcode in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//runcode
+[       359] Found new resource synn-loadscreen in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//synn-loadscreen
+[       375] Found new resource vMenu in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//vMenu
+[       390] Found new resource es_admin2 in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[essential]/es_admin2
+[       468] Found new resource async in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/async
+[       500] Found new resource cron in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/cron
+[       515] Found new resource esx-org.github.io in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx-org.github.io
+[       547] Resource loading for esx-org.github.io failed:
+[       547] Could not open resource metadata file C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx-org.github.io/__resource.lua.
+[       578] Found new resource esx_accessories in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_accessories
+[       593] Found new resource esx_addonaccount in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_addonaccount
+[       625] Found new resource esx_addoninventory in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_addoninventory
+[       640] Found new resource esx_ambulancejob in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_ambulancejob
+[       672] Found new resource esx_animations in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_animations
+[       687] Found new resource esx_atm in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_atm
+[       703] Found new resource esx_bankerjob in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_bankerjob
+[       734] Found new resource esx_barbershop in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_barbershop
+[       750] Found new resource esx_basicneeds in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_basicneeds
+[       765] Found new resource esx_billing in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_billing
+[       797] Found new resource esx_boilerplate in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_boilerplate
+[       812] Found new resource esx_clotheshop in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_clotheshop
+[       843] Found new resource esx_cruisecontrol in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_cruisecontrol
+[       859] Found new resource esx_datastore in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_datastore
+[       890] Found new resource esx_dmvschool in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_dmvschool
+[       906] Found new resource esx_drugs in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_drugs
+[       922] Found new resource esx_garage in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_garage
+[       953] Found new resource esx_holdup in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_holdup
+[       968] Found new resource esx_identity in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_identity
+[      1000] Found new resource esx_joblisting in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_joblisting
+[      1015] Found new resource esx_jobs in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_jobs
+[      1031] Found new resource esx_license in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_license
+[      1047] Found new resource esx_lscustom in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_lscustom
+[      1078] Found new resource esx_mecanojob in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_mecanojob
+[      1093] Found new resource esx_menu_default in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_menu_default
+[      1125] Found new resource esx_menu_dialog in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_menu_dialog
+[      1140] Found new resource esx_menu_list in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_menu_list
+[      1156] Found new resource esx_optionalneeds in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_optionalneeds
+[      1187] Found new resource esx_phone in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_phone
+[      1203] Found new resource esx_policejob in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_policejob
+[      1218] Found new resource esx_property in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_property
+[      1250] Found new resource esx_realestateagentjob in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_realestateagentjob
+[      1265] Found new resource esx_rpchat-1.2.0 in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_rpchat-1.2.0
+[      1281] Found new resource esx_service in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_service
+[      1297] Found new resource esx_shops in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_shops
+[      1328] Found new resource esx_sit in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_sit
+[      1343] Found new resource esx_skin in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_skin
+[      1359] Found new resource esx_society in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_society
+[      1375] Found new resource esx_status in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_status
+[      1406] Found new resource esx_taxijob in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_taxijob
+[      1422] Found new resource esx_vehicleshop in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_vehicleshop
+[      1437] Found new resource esx_voice in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_voice
+[      1468] Found new resource esx_weashops in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_weashops
+[      1484] Found new resource esx_whitelist in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_whitelist
+[      1515] Found new resource esx_whitelistEnhanced in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_whitelistEnhanced
+[      1531] Found new resource es_camera in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/es_camera
+[      1547] Found new resource es_extended in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/es_extended
+[      1562] Found new resource instance in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/instance
+[      1578] Found new resource skinchanger in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/skinchanger
+[      1609] Found new resource race in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[gamemodes]/race
+[      1625] Found new resource race-test in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[gamemodes]/race-test
+[      1656] Found new resource channelfeed in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[gameplay]/channelfeed
+[      1672] Found new resource irc in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[gameplay]/irc
+[      1687] Found new resource obituary in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[gameplay]/obituary
+[      1703] Found new resource obituary-deaths in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[gameplay]/obituary-deaths
+[      1734] Found new resource playernames in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[gameplay]/playernames
+[      1750] Found new resource mapmanager in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[managers]/mapmanager
+[      1797] Found new resource baseevents in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[system]/baseevents
+[      1828] Found new resource chat in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[system]/chat
+[      1843] Found new resource chat-theme-gtao in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[system]/chat-theme-gtao
+[      1859] Found new resource hardcap in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[system]/hardcap
+[      1875] Found new resource rconlog in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[system]/rconlog
+[      1890] Found new resource scoreboard in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[system]/scoreboard
+[      1922] Found new resource sessionmanager in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[system]/sessionmanager
+[      1937] Found new resource spawnmanager in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[system]/spawnmanager
+[      1968] Found new resource betaguns in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[test]/betaguns
+[      1984] Found new resource gameInit in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[test]/gameInit
+[      2000] Found new resource keks in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[test]/keks
+[      2031] Found new resource webpack in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[system]/[builders]/webpack
+[      2047] Found new resource yarn in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[system]/[builders]/yarn
+[      2140] Started resource sessionmanager
+[      2172] Started resource mapmanager
+[      2187] Started resource chat
+[      2203] Started resource spawnmanager
+[      2218] Started gametype Freeroam
+[      2234] Started resource fivem
+[      2234] Started resource hardcap
+[      2265] Started resource rconlog
+[      2265] Started resource scoreboard
+[      2297] Started resource essentialmode
+[      2328] Started resource es_admin2
+[      3859] Loaded MySQLAsync.net, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_229056492
+[      3906] Instantiated instance of script MySQLAsync.MySQLAsync.
+[      4015] Started resource mysql-async
+[      4047] Started resource async
+[      4062] Started resource baseevents
+[      4140] Started resource es_extended
+[      4172] Started resource instance
+[      4187] Started resource cron
+[      4203] Started resource skinchanger
+[      4234] Started resource esx_skin
+[      4250] Started resource esx_menu_default
+[      4265] Started resource esx_menu_list
+[      4281] Started resource esx_menu_dialog
+[      4312] Started resource esx_phone
+[      4328] Started resource esx_addonaccount
+[      4359] Started resource esx_addoninventory
+[      4375] Started resource esx_datastore
+[      4390] Started resource esx_society
+[      4406] Started resource esx_service
+[      4437] Started resource esx_billing
+[      4453] Started resource esx_jobs
+[      4484] Started resource esx_joblisting
+[      4562] Started resource esx_taxijob
+[      4593] Started resource esx_mecanojob
+[      4625] Started resource esx_policejob
+[      4656] Started resource esx_property
+[      4672] Started resource esx_realestateagentjob
+[      4703] Started resource esx_bankerjob
+[      4734] Started resource esx_ambulancejob
+[      4765] Started resource esx_vehicleshop
+[      4797] Started resource esx_status
+[      4812] Started resource esx_basicneeds
+[      4843] Started resource esx_clotheshop
+[      4859] Started resource esx_garage
+[      4890] Started resource esx_holdup
+[      4922] Started resource esx_drugs
+[      4937] Started resource esx_atm
+[      4968] Started resource esx_license
+[      4984] Started resource esx_weashops
+[      5015] Started resource esx_identity
+[      5047] Started resource synn-loadscreen
+[      5875] Loaded vMenuServer.net, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_687500323
+[      5922] Instantiated instance of script GHMatti.Http.RequestInternal.
+[      5937] Instantiated instance of script GHMatti.Http.Request.
+[      6109] Loaded Newtonsoft.Json, Version=11.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed into ScriptDomain_687500323
+[      6125] Instantiated instance of script vMenuServer.BanManager.
+[      6515] Instantiated instance of script vMenuServer.MainServer.
+[      6562] Instantiated instance of script vMenuServer.UpdateChecker.
+[      6656] Started resource vMenu
+[      6687] Authenticating server license key...
+[      6875] Server license key authentication succeeded. Welcome!
+[      6937] Sending heartbeat to live-internal.fivem.net:30110
+[      6953] 
+[      6968] Current version: 5.0.2
+[      6968] Updater version: 5.2.0
+[      6984] 
+[      7000] 
+[      7000] Version mismatch, you are currently not using the newest stable version of essentialmode. Please update
+[      7015] 
+[      7031] -------------------------------------------------------------
+[      7047] --- No errors detected, essentialmode is setup properly. ---
+[      7062] -------------------------------------------------------------
+[      8531] Started map fivem-map-skater
+[      8531] Started resource fivem-map-skater
+[      8797] Loaded MySqlConnector, Version=0.26.0.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_229056492
+[      9422] System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.ArgumentException: Format of the initialization string does not conform to specification starting at index 0.
+[      9468]   at System.Data.Common.DbConnectionOptions.GetKeyValuePair (System.String connectionString, System.Int32 currentPosition, System.Text.StringBuilder buffer, System.Boolean useOdbcRules, System.String& keyname, System.String& keyvalue) [0x002a0] in <c660f5a12cac430aa34fafb29a22e588>:0 
+[      9515]   at System.Data.Common.DbConnectionOptions.ParseInternal (System.Collections.Hashtable parsetable, System.String connectionString, System.Boolean buildChain, System.Collections.Hashtable synonyms, System.Boolean firstKey) [0x0001c] in <c660f5a12cac430aa34fafb29a22e588>:0 
+[      9578]   at System.Data.Common.DbConnectionOptions..ctor (System.String connectionString, System.Collections.Hashtable synonyms, System.Boolean useOdbcRules) [0x00037] in <c660f5a12cac430aa34fafb29a22e588>:0 
+[      9625]   at System.Data.Common.DbConnectionStringBuilder.set_ConnectionString (System.String value) [0x00015] in <c660f5a12cac430aa34fafb29a22e588>:0 
+[      9672]   at MySql.Data.MySqlClient.MySqlConnectionStringBuilder..ctor (System.String connectionString) [0x00006] in <5d2e43c2aa6f4da0bb43a6a12077ad51>:0 
+[      9718]   at MySQLAsync.MySQLAsync.Configure (System.String connectionStringConfig, System.Boolean debug) [0x00000] in <6b79789832b34a31961dbb39358e1b3f>:0 
+[      9750]   at MySQLAsync.MySQLAsync.<.ctor>b__2_0 () [0x00047] in <6b79789832b34a31961dbb39358e1b3f>:0 
+[      9812]   at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (System.Reflection.MonoMethod,object,object[],System.Exception&)
+[      9859]   at System.Reflection.MonoMethod.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00032] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[      9906]    --- End of inner exception stack trace ---
+[     10187] 
+[     10234] 
+[     10297] Server stack trace: 
+[     10343]   at System.Reflection.MonoMethod.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00048] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[     10390]   at System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) [0x00000] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[     10437]   at System.Delegate.DynamicInvokeImpl (System.Object[] args) [0x000e7] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[     10484]   at System.MulticastDelegate.DynamicInvokeImpl (System.Object[] args) [0x00008] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[     10531]   at System.Delegate.DynamicInvoke (System.Object[] args) [0x00000] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[     10578]   at CitizenFX.Core.FunctionReference.Invoke (System.Int32 reference, System.Byte[] arguments) [0x00062] in C:\gl\builds\4ff63adb\0\cfx\fivem\code\client\clrcore\FunctionReference.cs:62 
+[     10625]   at CitizenFX.Core.InternalManager.CallRef (System.Int32 refIndex, System.Byte[] argsSerialized, System.IntPtr& retvalSerialized, System.Int32& retvalSize) [0x00000] in C:\gl\builds\4ff63adb\0\cfx\fivem\code\client\clrcore\InternalManager.cs:247 
+[     10672]   at (wrapper remoting-invoke-with-check) CitizenFX.Core.InternalManager:CallRef (int,byte[],intptr&,int&)
+[     10718]   at (wrapper xdomain-dispatch) CitizenFX.Core.InternalManager:CallRef (object,byte[]&,byte[]&,int,byte[],int&)
+[     10765] 
+[     10812] Exception rethrown at [0]: 
+[     10859]   at (wrapper xdomain-invoke) CitizenFX.Core.InternalManager:CallRef (int,byte[],intptr&,int&)
+[     10906]   at (wrapper remoting-invoke-with-check) CitizenFX.Core.InternalManager:CallRef (int,byte[],intptr&,int&)
+[     10953]   at CitizenFX.Core.MonoScriptRuntime.CallRef (System.Int32 refIndex, System.Byte[] argsSerialized, System.Int32 argsSize, System.IntPtr& retvalSerialized, System.Int32& retvalSize) [0x00013] in C:\gl\builds\4ff63adb\0\cfx\fivem\code\client\clrcore\MonoScriptRuntime.cs:151 
+[     11093] Error running system event handling function for resource mysql-async: citizen:/scripting/lua/scheduler.lua:41: Failed to execute thread: citizen:/scripting/lua/scheduler.lua:663: An error happened while calling export mysql_configure of resource mysql-async (citizen:/scripting/lua/MessagePack.lua:830: missing bytes), see above for details
+[     11140] stack traceback:
+[     11187] 	[C]: in function 'error'
+[     11234] 	citizen:/scripting/lua/scheduler.lua:663: in method 'mysql_configure'
+[     11281] 	lib/init.lua:3: in upvalue 'handler'
+[     11547] 	citizen:/scripting/lua/scheduler.lua:175: in function <citizen:/scripting/lua/scheduler.lua:174>
+[     11672] stack traceback:
+[     11718] 	[C]: in function 'error'
+[     11765] 	citizen:/scripting/lua/scheduler.lua:41: in field 'CreateThreadNow'
+[     11812] 	citizen:/scripting/lua/scheduler.lua:174: in function <citizen:/scripting/lua/scheduler.lua:138>
+[     11906] hitch warning: frame time of 4973 milliseconds
+[     12156] 
+[     12203] [vMenu] Checking for updates.
+[     12297] 
+[     12343] 
+[     12406] [vMenu] An error occurred while checking for updates. If you require immediate assistance email: contact@vespura.com.
+[     12468] [vMenu] Error info: Unexpected character encountered while parsing value: U. Path '', line 0, position 0.
+[     12515] 
+[     12625] hitch warning: frame time of 715 milliseconds
+[         0] INFO: No channel links found in configuration file.
+[        94] Resolved live-internal.fivem.net:30110 to 178.32.9.100:30110
+[       219] Found new resource coordsaver in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//coordsaver
+[       281] Found new resource esplugin_mysql in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//esplugin_mysql
+[       344] Found new resource essentialmode in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//essentialmode
+[       391] Found new resource fivem in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//fivem
+[       453] Found new resource fivem-awesome1501 in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//fivem-awesome1501
+[       516] Found new resource fivem-map-hipster in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//fivem-map-hipster
+[       531] Found new resource fivem-map-skater in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//fivem-map-skater
+[       547] Found new resource mysql-async in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//mysql-async
+[       562] Found new resource runcode in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//runcode
+[       578] Found new resource synn-loadscreen in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//synn-loadscreen
+[       594] Found new resource vMenu in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//vMenu
+[       625] Found new resource es_admin2 in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[essential]/es_admin2
+[       625] Found new resource async in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/async
+[       656] Found new resource cron in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/cron
+[       672] Found new resource esx-org.github.io in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx-org.github.io
+[       703] Resource loading for esx-org.github.io failed:
+[       703] Could not open resource metadata file C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx-org.github.io/__resource.lua.
+[       719] Found new resource esx_accessories in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_accessories
+[       750] Found new resource esx_addonaccount in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_addonaccount
+[       766] Found new resource esx_addoninventory in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_addoninventory
+[       797] Found new resource esx_ambulancejob in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_ambulancejob
+[       812] Found new resource esx_animations in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_animations
+[       828] Found new resource esx_atm in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_atm
+[       859] Found new resource esx_bankerjob in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_bankerjob
+[       891] Found new resource esx_barbershop in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_barbershop
+[       906] Found new resource esx_basicneeds in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_basicneeds
+[       937] Found new resource esx_billing in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_billing
+[       953] Found new resource esx_boilerplate in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_boilerplate
+[       969] Found new resource esx_clotheshop in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_clotheshop
+[      1000] Found new resource esx_cruisecontrol in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_cruisecontrol
+[      1016] Found new resource esx_datastore in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_datastore
+[      1047] Found new resource esx_dmvschool in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_dmvschool
+[      1062] Found new resource esx_drugs in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_drugs
+[      1078] Found new resource esx_garage in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_garage
+[      1094] Found new resource esx_holdup in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_holdup
+[      1125] Found new resource esx_identity in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_identity
+[      1141] Found new resource esx_joblisting in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_joblisting
+[      1156] Found new resource esx_jobs in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_jobs
+[      1172] Found new resource esx_license in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_license
+[      1328] Found new resource esx_lscustom in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_lscustom
+[      1344] Found new resource esx_mecanojob in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_mecanojob
+[      1359] Found new resource esx_menu_default in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_menu_default
+[      1391] Found new resource esx_menu_dialog in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_menu_dialog
+[      1406] Found new resource esx_menu_list in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_menu_list
+[      1437] Found new resource esx_optionalneeds in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_optionalneeds
+[      1453] Found new resource esx_phone in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_phone
+[      1469] Found new resource esx_policejob in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_policejob
+[      1500] Found new resource esx_property in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_property
+[      1516] Found new resource esx_realestateagentjob in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_realestateagentjob
+[      1547] Found new resource esx_rpchat-1.2.0 in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_rpchat-1.2.0
+[      1562] Found new resource esx_service in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_service
+[      1578] Found new resource esx_shops in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_shops
+[      1594] Found new resource esx_sit in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_sit
+[      1625] Found new resource esx_skin in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_skin
+[      1641] Found new resource esx_society in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_society
+[      1656] Found new resource esx_status in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_status
+[      1672] Found new resource esx_taxijob in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_taxijob
+[      1703] Found new resource esx_vehicleshop in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_vehicleshop
+[      1719] Found new resource esx_voice in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_voice
+[      1734] Found new resource esx_weashops in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_weashops
+[      1766] Found new resource esx_whitelist in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_whitelist
+[      1781] Found new resource esx_whitelistEnhanced in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_whitelistEnhanced
+[      1812] Found new resource es_camera in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/es_camera
+[      1828] Found new resource es_extended in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/es_extended
+[      1844] Found new resource instance in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/instance
+[      1859] Found new resource skinchanger in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/skinchanger
+[      1875] Found new resource race in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[gamemodes]/race
+[      1891] Found new resource race-test in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[gamemodes]/race-test
+[      1922] Found new resource channelfeed in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[gameplay]/channelfeed
+[      1937] Found new resource irc in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[gameplay]/irc
+[      1953] Found new resource obituary in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[gameplay]/obituary
+[      1984] Found new resource obituary-deaths in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[gameplay]/obituary-deaths
+[      2000] Found new resource playernames in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[gameplay]/playernames
+[      2016] Found new resource mapmanager in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[managers]/mapmanager
+[      2047] Found new resource baseevents in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[system]/baseevents
+[      2062] Found new resource chat in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[system]/chat
+[      2078] Found new resource chat-theme-gtao in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[system]/chat-theme-gtao
+[      2094] Found new resource hardcap in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[system]/hardcap
+[      2125] Found new resource rconlog in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[system]/rconlog
+[      2141] Found new resource scoreboard in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[system]/scoreboard
+[      2156] Found new resource sessionmanager in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[system]/sessionmanager
+[      2187] Found new resource spawnmanager in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[system]/spawnmanager
+[      2203] Found new resource betaguns in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[test]/betaguns
+[      2219] Found new resource gameInit in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[test]/gameInit
+[      2234] Found new resource keks in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[test]/keks
+[      2266] Found new resource webpack in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[system]/[builders]/webpack
+[      2281] Found new resource yarn in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[system]/[builders]/yarn
+[      2375] Started resource sessionmanager
+[      2406] Started resource mapmanager
+[      2437] Started resource chat
+[      2453] Started resource spawnmanager
+[      2469] Started gametype Freeroam
+[      2469] Started resource fivem
+[      2484] Started resource hardcap
+[      2500] Started resource rconlog
+[      2516] Started resource scoreboard
+[      2531] Started resource essentialmode
+[      2594] Started resource es_admin2
+[      4125] Loaded MySQLAsync.net, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_1235354563
+[      4187] Instantiated instance of script MySQLAsync.MySQLAsync.
+[      4281] Started resource mysql-async
+[      4297] Started resource async
+[      4328] Started resource baseevents
+[      4406] Started resource es_extended
+[      4422] Started resource instance
+[      4453] Started resource cron
+[      4469] Started resource skinchanger
+[      4500] Started resource esx_skin
+[      4516] Started resource esx_menu_default
+[      4531] Started resource esx_menu_list
+[      4547] Started resource esx_menu_dialog
+[      4578] Started resource esx_phone
+[      4594] Started resource esx_addonaccount
+[      4625] Started resource esx_addoninventory
+[      4641] Started resource esx_datastore
+[      4672] Started resource esx_society
+[      4687] Started resource esx_service
+[      4719] Started resource esx_billing
+[      4734] Started resource esx_jobs
+[      4766] Started resource esx_joblisting
+[      4781] Started resource esx_taxijob
+[      4812] Started resource esx_mecanojob
+[      4828] Started resource esx_policejob
+[      4859] Started resource esx_property
+[      4891] Started resource esx_realestateagentjob
+[      4922] Started resource esx_bankerjob
+[      4937] Started resource esx_ambulancejob
+[      4969] Started resource esx_vehicleshop
+[      5000] Started resource esx_status
+[      5016] Started resource esx_basicneeds
+[      5047] Started resource esx_clotheshop
+[      5078] Started resource esx_garage
+[      5094] Started resource esx_holdup
+[      5125] Started resource esx_drugs
+[      5156] Started resource esx_atm
+[      5172] Started resource esx_license
+[      5203] Started resource esx_weashops
+[      5234] Started resource esx_identity
+[      5266] Started resource synn-loadscreen
+[      6141] Loaded vMenuServer.net, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_1448982499
+[      6187] Instantiated instance of script GHMatti.Http.RequestInternal.
+[      6187] Instantiated instance of script GHMatti.Http.Request.
+[      6375] Loaded Newtonsoft.Json, Version=11.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed into ScriptDomain_1448982499
+[      6391] Instantiated instance of script vMenuServer.BanManager.
+[      6797] Instantiated instance of script vMenuServer.MainServer.
+[      6844] Instantiated instance of script vMenuServer.UpdateChecker.
+[      6937] Started resource vMenu
+[      6953] Authenticating server license key...
+[      7234] Server license key authentication succeeded. Welcome!
+[      7297] Sending heartbeat to live-internal.fivem.net:30110
+[      7312] 
+[      7328] Current version: 5.0.2
+[      7328] Updater version: 5.2.0
+[      7344] 
+[      7359] 
+[      7359] Version mismatch, you are currently not using the newest stable version of essentialmode. Please update
+[      7375] 
+[      7375] -------------------------------------------------------------
+[      7391] --- No errors detected, essentialmode is setup properly. ---
+[      7406] -------------------------------------------------------------
+[      8922] Started map fivem-map-hipster
+[      8937] Started resource fivem-map-hipster
+[      9187] Loaded MySqlConnector, Version=0.26.0.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_1235354563
+[      9797] System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.ArgumentException: Format of the initialization string does not conform to specification starting at index 0.
+[      9844]   at System.Data.Common.DbConnectionOptions.GetKeyValuePair (System.String connectionString, System.Int32 currentPosition, System.Text.StringBuilder buffer, System.Boolean useOdbcRules, System.String& keyname, System.String& keyvalue) [0x00096] in <c660f5a12cac430aa34fafb29a22e588>:0 
+[      9891]   at System.Data.Common.DbConnectionOptions.ParseInternal (System.Collections.Hashtable parsetable, System.String connectionString, System.Boolean buildChain, System.Collections.Hashtable synonyms, System.Boolean firstKey) [0x0001c] in <c660f5a12cac430aa34fafb29a22e588>:0 
+[      9953]   at System.Data.Common.DbConnectionOptions..ctor (System.String connectionString, System.Collections.Hashtable synonyms, System.Boolean useOdbcRules) [0x00037] in <c660f5a12cac430aa34fafb29a22e588>:0 
+[     10000]   at System.Data.Common.DbConnectionStringBuilder.set_ConnectionString (System.String value) [0x00015] in <c660f5a12cac430aa34fafb29a22e588>:0 
+[     10047]   at MySql.Data.MySqlClient.MySqlConnectionStringBuilder..ctor (System.String connectionString) [0x00006] in <5d2e43c2aa6f4da0bb43a6a12077ad51>:0 
+[     10094]   at MySQLAsync.MySQLAsync.Configure (System.String connectionStringConfig, System.Boolean debug) [0x00000] in <6b79789832b34a31961dbb39358e1b3f>:0 
+[     10141]   at MySQLAsync.MySQLAsync.<.ctor>b__2_0 () [0x00047] in <6b79789832b34a31961dbb39358e1b3f>:0 
+[     10187]   at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (System.Reflection.MonoMethod,object,object[],System.Exception&)
+[     10234]   at System.Reflection.MonoMethod.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00032] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[     10297]    --- End of inner exception stack trace ---
+[     10344] 
+[     10391] 
+[     10453] Server stack trace: 
+[     10500]   at System.Reflection.MonoMethod.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00048] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[     10547]   at System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) [0x00000] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[     10594]   at System.Delegate.DynamicInvokeImpl (System.Object[] args) [0x000e7] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[     10641]   at System.MulticastDelegate.DynamicInvokeImpl (System.Object[] args) [0x00008] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[     10703]   at System.Delegate.DynamicInvoke (System.Object[] args) [0x00000] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[     10750]   at CitizenFX.Core.FunctionReference.Invoke (System.Int32 reference, System.Byte[] arguments) [0x00062] in C:\gl\builds\4ff63adb\0\cfx\fivem\code\client\clrcore\FunctionReference.cs:62 
+[     10797]   at CitizenFX.Core.InternalManager.CallRef (System.Int32 refIndex, System.Byte[] argsSerialized, System.IntPtr& retvalSerialized, System.Int32& retvalSize) [0x00000] in C:\gl\builds\4ff63adb\0\cfx\fivem\code\client\clrcore\InternalManager.cs:247 
+[     10859]   at (wrapper remoting-invoke-with-check) CitizenFX.Core.InternalManager:CallRef (int,byte[],intptr&,int&)
+[     10906]   at (wrapper xdomain-dispatch) CitizenFX.Core.InternalManager:CallRef (object,byte[]&,byte[]&,int,byte[],int&)
+[     10984] 
+[     11031] Exception rethrown at [0]: 
+[     11078]   at (wrapper xdomain-invoke) CitizenFX.Core.InternalManager:CallRef (int,byte[],intptr&,int&)
+[     11141]   at (wrapper remoting-invoke-with-check) CitizenFX.Core.InternalManager:CallRef (int,byte[],intptr&,int&)
+[     11203]   at CitizenFX.Core.MonoScriptRuntime.CallRef (System.Int32 refIndex, System.Byte[] argsSerialized, System.Int32 argsSize, System.IntPtr& retvalSerialized, System.Int32& retvalSize) [0x00013] in C:\gl\builds\4ff63adb\0\cfx\fivem\code\client\clrcore\MonoScriptRuntime.cs:151 
+[     11344] Error running system event handling function for resource mysql-async: citizen:/scripting/lua/scheduler.lua:41: Failed to execute thread: citizen:/scripting/lua/scheduler.lua:663: An error happened while calling export mysql_configure of resource mysql-async (citizen:/scripting/lua/MessagePack.lua:830: missing bytes), see above for details
+[     11391] stack traceback:
+[     11453] 	[C]: in function 'error'
+[     11500] 	citizen:/scripting/lua/scheduler.lua:663: in method 'mysql_configure'
+[     11547] 	lib/init.lua:3: in upvalue 'handler'
+[     11594] 	citizen:/scripting/lua/scheduler.lua:175: in function <citizen:/scripting/lua/scheduler.lua:174>
+[     11641] stack traceback:
+[     11687] 	[C]: in function 'error'
+[     11734] 	citizen:/scripting/lua/scheduler.lua:41: in field 'CreateThreadNow'
+[     11781] 	citizen:/scripting/lua/scheduler.lua:174: in function <citizen:/scripting/lua/scheduler.lua:138>
+[     11875] hitch warning: frame time of 4580 milliseconds
+[     12109] 
+[     12156] [vMenu] Checking for updates.
+[     12250] 
+[     12312] 
+[     12359] [vMenu] An error occurred while checking for updates. If you require immediate assistance email: contact@vespura.com.
+[     12422] [vMenu] Error info: Unexpected character encountered while parsing value: U. Path '', line 0, position 0.
+[     12469] 
+[     12578] hitch warning: frame time of 713 milliseconds
+[     30672] Connecting: Dennis The Menace
+[     31594] Sending heartbeat to live-internal.fivem.net:30110
+[     38672] Sending heartbeat to live-internal.fivem.net:30110
+[         0] INFO: No channel links found in configuration file.
+[       109] Resolved live-internal.fivem.net:30110 to 178.32.9.100:30110
+[       219] Found new resource coordsaver in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//coordsaver
+[       297] Found new resource esplugin_mysql in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//esplugin_mysql
+[       344] Found new resource essentialmode in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//essentialmode
+[       625] Found new resource fivem in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//fivem
+[       687] Found new resource fivem-awesome1501 in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//fivem-awesome1501
+[       703] Found new resource fivem-map-hipster in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//fivem-map-hipster
+[       719] Found new resource fivem-map-skater in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//fivem-map-skater
+[       734] Found new resource mysql-async in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//mysql-async
+[       750] Found new resource runcode in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//runcode
+[       765] Found new resource synn-loadscreen in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//synn-loadscreen
+[       797] Found new resource vMenu in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//vMenu
+[       812] Found new resource es_admin2 in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[essential]/es_admin2
+[       828] Found new resource async in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/async
+[       844] Found new resource cron in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/cron
+[       859] Found new resource esx-org.github.io in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx-org.github.io
+[       890] Resource loading for esx-org.github.io failed:
+[       890] Could not open resource metadata file C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx-org.github.io/__resource.lua.
+[       906] Found new resource esx_accessories in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_accessories
+[       937] Found new resource esx_addonaccount in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_addonaccount
+[       953] Found new resource esx_addoninventory in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_addoninventory
+[       984] Found new resource esx_ambulancejob in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_ambulancejob
+[      1000] Found new resource esx_animations in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_animations
+[      1015] Found new resource esx_atm in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_atm
+[      1047] Found new resource esx_bankerjob in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_bankerjob
+[      1062] Found new resource esx_barbershop in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_barbershop
+[      1094] Found new resource esx_basicneeds in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_basicneeds
+[      1109] Found new resource esx_billing in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_billing
+[      1125] Found new resource esx_boilerplate in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_boilerplate
+[      1156] Found new resource esx_clotheshop in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_clotheshop
+[      1172] Found new resource esx_cruisecontrol in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_cruisecontrol
+[      1203] Found new resource esx_datastore in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_datastore
+[      1219] Found new resource esx_dmvschool in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_dmvschool
+[      1250] Found new resource esx_drugs in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_drugs
+[      1265] Found new resource esx_garage in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_garage
+[      1281] Found new resource esx_holdup in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_holdup
+[      1297] Found new resource esx_identity in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_identity
+[      1312] Found new resource esx_joblisting in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_joblisting
+[      1328] Found new resource esx_jobs in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_jobs
+[      1344] Found new resource esx_license in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_license
+[      1375] Found new resource esx_lscustom in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_lscustom
+[      1390] Found new resource esx_mecanojob in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_mecanojob
+[      1422] Found new resource esx_menu_default in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_menu_default
+[      1437] Found new resource esx_menu_dialog in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_menu_dialog
+[      1469] Found new resource esx_menu_list in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_menu_list
+[      1484] Found new resource esx_optionalneeds in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_optionalneeds
+[      1500] Found new resource esx_phone in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_phone
+[      1531] Found new resource esx_policejob in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_policejob
+[      1547] Found new resource esx_property in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_property
+[      1578] Found new resource esx_realestateagentjob in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_realestateagentjob
+[      1594] Found new resource esx_rpchat-1.2.0 in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_rpchat-1.2.0
+[      1609] Found new resource esx_service in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_service
+[      1640] Found new resource esx_shops in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_shops
+[      1640] Found new resource esx_sit in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_sit
+[      1672] Found new resource esx_skin in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_skin
+[      1687] Found new resource esx_society in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_society
+[      1703] Found new resource esx_status in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_status
+[      1719] Found new resource esx_taxijob in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_taxijob
+[      1765] Found new resource esx_vehicleshop in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_vehicleshop
+[      1797] Found new resource esx_voice in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_voice
+[      1812] Found new resource esx_weashops in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_weashops
+[      1828] Found new resource esx_whitelist in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_whitelist
+[      1859] Found new resource esx_whitelistEnhanced in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/esx_whitelistEnhanced
+[      1875] Found new resource es_camera in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/es_camera
+[      1890] Found new resource es_extended in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/es_extended
+[      1922] Found new resource instance in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/instance
+[      1937] Found new resource skinchanger in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[esx]/skinchanger
+[      1953] Found new resource race in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[gamemodes]/race
+[      1984] Found new resource race-test in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[gamemodes]/race-test
+[      2000] Found new resource channelfeed in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[gameplay]/channelfeed
+[      2015] Found new resource irc in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[gameplay]/irc
+[      2047] Found new resource obituary in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[gameplay]/obituary
+[      2062] Found new resource obituary-deaths in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[gameplay]/obituary-deaths
+[      2094] Found new resource playernames in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[gameplay]/playernames
+[      2109] Found new resource mapmanager in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[managers]/mapmanager
+[      2125] Found new resource baseevents in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[system]/baseevents
+[      2140] Found new resource chat in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[system]/chat
+[      2172] Found new resource chat-theme-gtao in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[system]/chat-theme-gtao
+[      2187] Found new resource hardcap in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[system]/hardcap
+[      2203] Found new resource rconlog in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[system]/rconlog
+[      2219] Found new resource scoreboard in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[system]/scoreboard
+[      2234] Found new resource sessionmanager in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[system]/sessionmanager
+[      2265] Found new resource spawnmanager in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[system]/spawnmanager
+[      2281] Found new resource betaguns in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[test]/betaguns
+[      2297] Found new resource gameInit in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[test]/gameInit
+[      2312] Found new resource keks in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[test]/keks
+[      2344] Found new resource webpack in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[system]/[builders]/webpack
+[      2359] Found new resource yarn in C:/Users\Administrator\Desktop\FXServer\cfx-server-data/resources//[system]/[builders]/yarn
+[      2469] Started resource sessionmanager
+[      2500] Started resource mapmanager
+[      2515] Started resource chat
+[      2531] Started resource spawnmanager
+[      2547] Started gametype Freeroam
+[      2562] Started resource fivem
+[      2578] Started resource hardcap
+[      2594] Started resource rconlog
+[      2609] Started resource scoreboard
+[      2640] Started resource essentialmode
+[      2656] Started resource es_admin2
+[      4187] Loaded MySQLAsync.net, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_1307050193
+[      4234] Instantiated instance of script MySQLAsync.MySQLAsync.
+[      4328] Started resource mysql-async
+[      4344] Started resource async
+[      4375] Started resource baseevents
+[      4437] Started resource es_extended
+[      4484] Started resource instance
+[      4500] Started resource cron
+[      4515] Started resource skinchanger
+[      4547] Started resource esx_skin
+[      4562] Started resource esx_menu_default
+[      4594] Started resource esx_menu_list
+[      4609] Started resource esx_menu_dialog
+[      4625] Started resource esx_phone
+[      4656] Started resource esx_addonaccount
+[      4672] Started resource esx_addoninventory
+[      4703] Started resource esx_datastore
+[      4719] Started resource esx_society
+[      4734] Started resource esx_service
+[      4765] Started resource esx_billing
+[      4781] Started resource esx_jobs
+[      4797] Started resource esx_joblisting
+[      4828] Started resource esx_taxijob
+[      4844] Started resource esx_mecanojob
+[      4875] Started resource esx_policejob
+[      4906] Started resource esx_property
+[      4937] Started resource esx_realestateagentjob
+[      4953] Started resource esx_bankerjob
+[      4984] Started resource esx_ambulancejob
+[      5015] Started resource esx_vehicleshop
+[      5047] Started resource esx_status
+[      5062] Started resource esx_basicneeds
+[      5094] Started resource esx_clotheshop
+[      5109] Started resource esx_garage
+[      5125] Started resource esx_holdup
+[      5156] Started resource esx_drugs
+[      5187] Started resource esx_atm
+[      5203] Started resource esx_license
+[      5219] Started resource esx_weashops
+[      5250] Started resource esx_identity
+[      5281] Started resource synn-loadscreen
+[      6094] Loaded vMenuServer.net, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_1733388064
+[      6140] Instantiated instance of script GHMatti.Http.RequestInternal.
+[      6156] Instantiated instance of script GHMatti.Http.Request.
+[      6328] Loaded Newtonsoft.Json, Version=11.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed into ScriptDomain_1733388064
+[      6344] Instantiated instance of script vMenuServer.BanManager.
+[      6750] Instantiated instance of script vMenuServer.MainServer.
+[      6797] Instantiated instance of script vMenuServer.UpdateChecker.
+[      6906] Started resource vMenu
+[      6922] Authenticating server license key...
+[      7140] Server license key authentication succeeded. Welcome!
+[      7297] Sending heartbeat to live-internal.fivem.net:30110
+[      7312] 
+[      7328] Current version: 5.0.2
+[      7344] Updater version: 5.2.0
+[      7344] 
+[      7359] 
+[      7359] Version mismatch, you are currently not using the newest stable version of essentialmode. Please update
+[      7375] 
+[      7390] -------------------------------------------------------------
+[      7390] --- No errors detected, essentialmode is setup properly. ---
+[      7406] -------------------------------------------------------------
+[      8844] Started map fivem-map-skater
+[      8859] Started resource fivem-map-skater
+[      9109] Loaded MySqlConnector, Version=0.26.0.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_1307050193
+[      9703] System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.ArgumentException: Format of the initialization string does not conform to specification starting at index 0.
+[      9765]   at System.Data.Common.DbConnectionOptions.GetKeyValuePair (System.String connectionString, System.Int32 currentPosition, System.Text.StringBuilder buffer, System.Boolean useOdbcRules, System.String& keyname, System.String& keyvalue) [0x000d4] in <c660f5a12cac430aa34fafb29a22e588>:0 
+[      9812]   at System.Data.Common.DbConnectionOptions.ParseInternal (System.Collections.Hashtable parsetable, System.String connectionString, System.Boolean buildChain, System.Collections.Hashtable synonyms, System.Boolean firstKey) [0x0001c] in <c660f5a12cac430aa34fafb29a22e588>:0 
+[      9875]   at System.Data.Common.DbConnectionOptions..ctor (System.String connectionString, System.Collections.Hashtable synonyms, System.Boolean useOdbcRules) [0x00037] in <c660f5a12cac430aa34fafb29a22e588>:0 
+[      9984]   at System.Data.Common.DbConnectionStringBuilder.set_ConnectionString (System.String value) [0x00015] in <c660f5a12cac430aa34fafb29a22e588>:0 
+[     10031]   at MySql.Data.MySqlClient.MySqlConnectionStringBuilder..ctor (System.String connectionString) [0x00006] in <5d2e43c2aa6f4da0bb43a6a12077ad51>:0 
+[     10078]   at MySQLAsync.MySQLAsync.Configure (System.String connectionStringConfig, System.Boolean debug) [0x00000] in <6b79789832b34a31961dbb39358e1b3f>:0 
+[     10125]   at MySQLAsync.MySQLAsync.<.ctor>b__2_0 () [0x00047] in <6b79789832b34a31961dbb39358e1b3f>:0 
+[     10172]   at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (System.Reflection.MonoMethod,object,object[],System.Exception&)
+[     10219]   at System.Reflection.MonoMethod.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00032] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[     10265]    --- End of inner exception stack trace ---
+[     10328] 
+[     10375] 
+[     10422] Server stack trace: 
+[     10469]   at System.Reflection.MonoMethod.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00048] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[     10515]   at System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) [0x00000] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[     10578]   at System.Delegate.DynamicInvokeImpl (System.Object[] args) [0x000e7] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[     10625]   at System.MulticastDelegate.DynamicInvokeImpl (System.Object[] args) [0x00008] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[     10687]   at System.Delegate.DynamicInvoke (System.Object[] args) [0x00000] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[     10734]   at CitizenFX.Core.FunctionReference.Invoke (System.Int32 reference, System.Byte[] arguments) [0x00062] in C:\gl\builds\4ff63adb\0\cfx\fivem\code\client\clrcore\FunctionReference.cs:62 
+[     10797]   at CitizenFX.Core.InternalManager.CallRef (System.Int32 refIndex, System.Byte[] argsSerialized, System.IntPtr& retvalSerialized, System.Int32& retvalSize) [0x00000] in C:\gl\builds\4ff63adb\0\cfx\fivem\code\client\clrcore\InternalManager.cs:247 
+[     10844]   at (wrapper remoting-invoke-with-check) CitizenFX.Core.InternalManager:CallRef (int,byte[],intptr&,int&)
+[     10906]   at (wrapper xdomain-dispatch) CitizenFX.Core.InternalManager:CallRef (object,byte[]&,byte[]&,int,byte[],int&)
+[     10953] 
+[     11015] Exception rethrown at [0]: 
+[     11062]   at (wrapper xdomain-invoke) CitizenFX.Core.InternalManager:CallRef (int,byte[],intptr&,int&)
+[     11109]   at (wrapper remoting-invoke-with-check) CitizenFX.Core.InternalManager:CallRef (int,byte[],intptr&,int&)
+[     11156]   at CitizenFX.Core.MonoScriptRuntime.CallRef (System.Int32 refIndex, System.Byte[] argsSerialized, System.Int32 argsSize, System.IntPtr& retvalSerialized, System.Int32& retvalSize) [0x00013] in C:\gl\builds\4ff63adb\0\cfx\fivem\code\client\clrcore\MonoScriptRuntime.cs:151 
+[     11297] Error running system event handling function for resource mysql-async: citizen:/scripting/lua/scheduler.lua:41: Failed to execute thread: citizen:/scripting/lua/scheduler.lua:663: An error happened while calling export mysql_configure of resource mysql-async (citizen:/scripting/lua/MessagePack.lua:830: missing bytes), see above for details
+[     11375] stack traceback:
+[     11437] 	[C]: in function 'error'
+[     11484] 	citizen:/scripting/lua/scheduler.lua:663: in method 'mysql_configure'
+[     11531] 	lib/init.lua:3: in upvalue 'handler'
+[     11594] 	citizen:/scripting/lua/scheduler.lua:175: in function <citizen:/scripting/lua/scheduler.lua:174>
+[     11640] stack traceback:
+[     11703] 	[C]: in function 'error'
+[     11750] 	citizen:/scripting/lua/scheduler.lua:41: in field 'CreateThreadNow'
+[     11797] 	citizen:/scripting/lua/scheduler.lua:174: in function <citizen:/scripting/lua/scheduler.lua:138>
+[     11922] hitch warning: frame time of 4705 milliseconds
+[     12172] 
+[     12219] [vMenu] Checking for updates.
+[     12297] 
+[     12344] 
+[     12390] [vMenu] An error occurred while checking for updates. If you require immediate assistance email: contact@vespura.com.
+[     12469] [vMenu] Error info: Unexpected character encountered while parsing value: U. Path '', line 0, position 0.
+[     12515] 
+[     12656] hitch warning: frame time of 733 milliseconds
+[     42156] Connecting: Dennis The Menace
+[     43562] Sending heartbeat to live-internal.fivem.net:30110
+[     74656] Loaded System.Threading.Tasks.Extensions, Version=4.1.1.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51 into ScriptDomain_1307050193
+[     74781] hitch warning: frame time of 246 milliseconds
+[     76140] Error occurred while attempting to find user in CouchDB.
+[     76265] [ERROR] [MySQL] An error happens on MySQL for query "SELECT * FROM weashops {=}": Unable to connect to any of the specified MySQL hosts.
+[     76359] [ERROR] [MySQL] An error happens on MySQL for query "SELECT isDead FROM users WHERE identifier=@identifier {@identifier=steam:11000010a50d8c9}": Unable to connect to any of the specified MySQL hosts.
+[     89390] Error running call reference function for resource essentialmode: citizen:/scripting/lua/scheduler.lua:351: server/main.lua:218: attempt to index a nil value (field '?')
+[     89390] stack traceback:
+[     89406] 	server/main.lua:218: in upvalue 'ref'
+[     89406] 	citizen:/scripting/lua/scheduler.lua:337: in function <citizen:/scripting/lua/scheduler.lua:336>
+[     89422] 	[C]: in function 'xpcall'
+[     89422] 	citizen:/scripting/lua/scheduler.lua:336: in function <citizen:/scripting/lua/scheduler.lua:335>
+[     89437] stack traceback:
+[     89437] 	[C]: in function 'error'
+[     89453] 	citizen:/scripting/lua/scheduler.lua:351: in function <citizen:/scripting/lua/scheduler.lua:322>
+[     89469] hitch warning: frame time of 161 milliseconds
+[    143172] Connecting: Arqtic Gaming
+[    160969] Sending heartbeat to live-internal.fivem.net:30110
+[    217203] [ERROR] [MySQL] An error happens on MySQL for query "SELECT * FROM weashops {=}": Unable to connect to any of the specified MySQL hosts.
+[    217406] Error occurred while attempting to find user in CouchDB.
+[    218984] [ERROR] [MySQL] An error happens on MySQL for query "SELECT isDead FROM users WHERE identifier=@identifier {@identifier=steam:110000107971319}": Unable to connect to any of the specified MySQL hosts.
+[    271828] Error running system event handling function for resource esx_phone: citizen:/scripting/lua/scheduler.lua:41: Failed to execute thread: server/main.lua:165: attempt to index a nil value (local 'xPlayer')
+[    271844] stack traceback:
+[    271844] 	server/main.lua:165: in upvalue 'handler'
+[    271844] 	citizen:/scripting/lua/scheduler.lua:175: in function <citizen:/scripting/lua/scheduler.lua:174>
+[    271859] stack traceback:
+[    271859] 	[C]: in function 'error'
+[    271875] 	citizen:/scripting/lua/scheduler.lua:41: in field 'CreateThreadNow'
+[    271875] 	citizen:/scripting/lua/scheduler.lua:174: in function <citizen:/scripting/lua/scheduler.lua:138>
+[    277078] Error running system event handling function for resource esx_phone: citizen:/scripting/lua/scheduler.lua:41: Failed to execute thread: server/main.lua:165: attempt to index a nil value (local 'xPlayer')
+[    277094] stack traceback:
+[    277094] 	server/main.lua:165: in upvalue 'handler'
+[    277109] 	citizen:/scripting/lua/scheduler.lua:175: in function <citizen:/scripting/lua/scheduler.lua:174>
+[    277109] stack traceback:
+[    277125] 	[C]: in function 'error'
+[    277125] 	citizen:/scripting/lua/scheduler.lua:41: in field 'CreateThreadNow'
+[    277140] 	citizen:/scripting/lua/scheduler.lua:174: in function <citizen:/scripting/lua/scheduler.lua:138>
+[    324015] Error running call reference function for resource essentialmode: citizen:/scripting/lua/scheduler.lua:351: server/main.lua:218: attempt to index a nil value (field '?')
+[    324031] stack traceback:
+[    324047] 	server/main.lua:218: in upvalue 'ref'
+[    324047] 	citizen:/scripting/lua/scheduler.lua:337: in function <citizen:/scripting/lua/scheduler.lua:336>
+[    324047] 	[C]: in function 'xpcall'
+[    324062] 	citizen:/scripting/lua/scheduler.lua:336: in function <citizen:/scripting/lua/scheduler.lua:335>
+[    324109] stack traceback:
+[    324125] 	[C]: in function 'error'
+[    324125] 	citizen:/scripting/lua/scheduler.lua:351: in function <citizen:/scripting/lua/scheduler.lua:322>
+[    324140] hitch warning: frame time of 184 milliseconds
+[    341015] Sending heartbeat to live-internal.fivem.net:30110
+[    377234] Sending heartbeat to live-internal.fivem.net:30110
+[    414734] Connecting: Arqtic Gaming
+[    415594] Sending heartbeat to live-internal.fivem.net:30110
+[    439500] [ERROR] [MySQL] An error happens on MySQL for query "SELECT * FROM weashops {=}": Unable to connect to any of the specified MySQL hosts.
+[    439750] Error occurred while attempting to find user in CouchDB.
+[    440453] [ERROR] [MySQL] An error happens on MySQL for query "SELECT isDead FROM users WHERE identifier=@identifier {@identifier=steam:110000107971319}": Unable to connect to any of the specified MySQL hosts.
+[    595656] Sending heartbeat to live-internal.fivem.net:30110
+[    604422] [SAVED] All players
+[    606312] Error running system event handling function for resource esx_phone: citizen:/scripting/lua/scheduler.lua:41: Failed to execute thread: server/main.lua:165: attempt to index a nil value (local 'xPlayer')
+[    606328] stack traceback:
+[    606328] 	server/main.lua:165: in upvalue 'handler'
+[    606328] 	citizen:/scripting/lua/scheduler.lua:175: in function <citizen:/scripting/lua/scheduler.lua:174>
+[    606344] stack traceback:
+[    606344] 	[C]: in function 'error'
+[    606344] 	citizen:/scripting/lua/scheduler.lua:41: in field 'CreateThreadNow'
+[    606359] 	citizen:/scripting/lua/scheduler.lua:174: in function <citizen:/scripting/lua/scheduler.lua:138>
+[    618328] Error running call reference function for resource esx_billing: citizen:/scripting/lua/scheduler.lua:351: server/main.lua:80: attempt to index a nil value (local 'xPlayer')
+[    618344] stack traceback:
+[    618344] 	server/main.lua:80: in upvalue 'ref'
+[    618344] 	citizen:/scripting/lua/scheduler.lua:337: in function <citizen:/scripting/lua/scheduler.lua:336>
+[    618359] 	[C]: in function 'xpcall'
+[    618359] 	citizen:/scripting/lua/scheduler.lua:336: in function <citizen:/scripting/lua/scheduler.lua:335>
+[    618375] stack traceback:
+[    618375] 	[C]: in function 'error'
+[    618375] 	citizen:/scripting/lua/scheduler.lua:351: in function <citizen:/scripting/lua/scheduler.lua:322>
+[    618469] Error running system event handling function for resource es_extended: citizen:/scripting/lua/scheduler.lua:41: Failed to execute thread: citizen:/scripting/lua/MessagePack.lua:830: missing bytes
+[    618484] stack traceback:
+[    618484] 	[C]: in function 'error'
+[    618484] 	citizen:/scripting/lua/MessagePack.lua:830: in method 'underflow'
+[    618500] 	citizen:/scripting/lua/MessagePack.lua:465: in field 'any'
+[    618500] 	citizen:/scripting/lua/MessagePack.lua:860: in field 'unpack'
+[    618500] 	citizen:/scripting/lua/scheduler.lua:563: in field '?'
+[    618515] 	server/functions.lua:60: in field 'TriggerServerCallback'
+[    618531] 	server/common.lua:74: in upvalue 'handler'
+[    618531] 	citizen:/scripting/lua/scheduler.lua:175: in function <citizen:/scripting/lua/scheduler.lua:174>
+[    618547] stack traceback:
+[    618547] 	[C]: in function 'error'
+[    618562] 	citizen:/scripting/lua/scheduler.lua:41: in field 'CreateThreadNow'
+[    618562] 	citizen:/scripting/lua/scheduler.lua:174: in function <citizen:/scripting/lua/scheduler.lua:138>
+[    618578] hitch warning: frame time of 315 milliseconds
+[    640578] [ERROR] [MySQL] An error happens on MySQL for query "UPDATE users SET isDead=@isDead WHERE identifier=@identifier {@identifier=steam:110000107971319;@isDead=1}": Unable to connect to any of the specified MySQL hosts.
+[    640609] hitch warning: frame time of 1073 milliseconds
+[    643219] Error running system event handling function for resource esx_phone: citizen:/scripting/lua/scheduler.lua:41: Failed to execute thread: server/main.lua:177: attempt to index a nil value (local 'xPlayer')
+[    643234] stack traceback:
+[    643234] 	server/main.lua:177: in upvalue 'handler'
+[    643250] 	citizen:/scripting/lua/scheduler.lua:175: in function <citizen:/scripting/lua/scheduler.lua:174>
+[    643250] stack traceback:
+[    643281] 	[C]: in function 'error'
+[    643297] 	citizen:/scripting/lua/scheduler.lua:41: in field 'CreateThreadNow'
+[    643297] 	citizen:/scripting/lua/scheduler.lua:174: in function <citizen:/scripting/lua/scheduler.lua:138>
+[    643312] hitch warning: frame time of 405 milliseconds
